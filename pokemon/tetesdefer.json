@@ -1,0 +1,155 @@
+{
+  "klass": "Specie",
+  "id": 810,
+  "dbSymbol": "tetesdefer",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.3,
+      "weight": 111,
+      "type1": "dark",
+      "type2": "flying",
+      "baseHp": 94,
+      "baseAtk": 80,
+      "baseDfe": 86,
+      "baseSpd": 108,
+      "baseAts": 122,
+      "baseDfs": 80,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 3,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 285,
+      "baseLoyalty": 70,
+      "catchRate": 30,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "deino",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "contest_costume",
+          "chance": 5
+        }
+      ],
+      "abilities": [
+        "charge_quantique",
+        "charge_quantique",
+        "charge_quantique"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "IRONJUGULIS",
+        "iconShiny": "IRONJUGULIS",
+        "front": "993",
+        "frontShiny": "",
+        "back": "Têtes-de-Fer back",
+        "backShiny": "",
+        "footprint": "IRONJUGULIS",
+        "character": "",
+        "characterShiny": "",
+        "cry": "810cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "electric_terrain",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "work_up",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "focus_energy",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "tri_attack",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "air_cutter",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "roar",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "assurance",
+          "level": 14
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dragon_breath",
+          "level": 21
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "snarl",
+          "level": 28
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "crunch",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "hyper_voice",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "air_slash",
+          "level": 56
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "knock_off",
+          "level": 63
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dark_pulse",
+          "level": 70
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "outrage",
+          "level": 77
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dragon_pulse",
+          "level": 84
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "hyper_beam",
+          "level": 91
+        }
+      ]
+    }
+  ]
+}

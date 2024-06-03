@@ -1,0 +1,143 @@
+{
+  "klass": "Specie",
+  "id": 901,
+  "dbSymbol": "palafin",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "water",
+      "type2": "__undef__",
+      "baseHp": 100,
+      "baseAtk": 70,
+      "baseDfe": 72,
+      "baseSpd": 100,
+      "baseAts": 53,
+      "baseDfs": 62,
+      "evHp": 2,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 45,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "palafin",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "zero_to_hero",
+        "zero_to_hero",
+        "zero_to_hero"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "PALAFIN",
+        "iconShiny": "PALAFIN",
+        "front": "PALAFIN",
+        "frontShiny": "PALAFIN",
+        "back": "PALAFIN",
+        "backShiny": "PALAFIN",
+        "footprint": "",
+        "character": "PALAFIN",
+        "characterShiny": "PALAFIN",
+        "cry": "PALAFIN.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "eau_revoir",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "form": 1,
+      "height": 0,
+      "weight": 0,
+      "type1": "water",
+      "type2": "__undef__",
+      "baseHp": 100,
+      "baseAtk": 160,
+      "baseDfe": 97,
+      "baseSpd": 100,
+      "baseAts": 106,
+      "baseDfs": 87,
+      "evHp": 1,
+      "evAtk": 2,
+      "evDfe": 0,
+      "evSpd": 1,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 45,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "palafin",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "zero_to_hero",
+        "zero_to_hero",
+        "zero_to_hero"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "PALAFIN_1",
+        "iconShiny": "PALAFIN_1",
+        "front": "PALAFIN_1",
+        "frontShiny": "PALAFIN_1",
+        "back": "PALAFIN_1",
+        "backShiny": "PALAFIN_1",
+        "footprint": "",
+        "character": "PALAFIN_1",
+        "characterShiny": "PALAFIN_1",
+        "cry": "PALAFIN_1.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "eau_revoir",
+          "level": 1
+        }
+      ]
+    }
+  ]
+}

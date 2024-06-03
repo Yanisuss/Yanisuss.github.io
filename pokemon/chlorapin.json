@@ -1,0 +1,80 @@
+{
+  "klass": "Specie",
+  "id": 929,
+  "dbSymbol": "chlorapin",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "grass",
+      "type2": "__undef__",
+      "baseHp": 56,
+      "baseAtk": 50,
+      "baseDfe": 53,
+      "baseSpd": 90,
+      "baseAts": 85,
+      "baseDfs": 75,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 2,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "jackamera",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 36
+            }
+          ]
+        }
+      ],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 45,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "chlorapin",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "cute_charm",
+        "healer",
+        "friend_guard"
+      ],
+      "frontOffsetY": 0,
+      "moveSet": [],
+      "resources": {
+        "icon": "",
+        "iconShiny": "",
+        "front": "chlorapin",
+        "frontShiny": "",
+        "back": "chlorapin b",
+        "backShiny": "",
+        "footprint": "",
+        "character": "",
+        "characterShiny": "",
+        "cry": "",
+        "hasFemale": false
+      }
+    }
+  ]
+}

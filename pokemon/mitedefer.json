@@ -1,0 +1,160 @@
+{
+  "klass": "Specie",
+  "id": 823,
+  "dbSymbol": "mitedefer",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.2,
+      "weight": 36,
+      "type1": "fire",
+      "type2": "poison",
+      "baseHp": 80,
+      "baseAtk": 70,
+      "baseDfe": 60,
+      "baseSpd": 108,
+      "baseAts": 140,
+      "baseDfs": 110,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 3,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 285,
+      "baseLoyalty": 70,
+      "catchRate": 30,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "larvesta",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "contest_costume",
+          "chance": 5
+        }
+      ],
+      "abilities": [
+        "charge_quantique",
+        "charge_quantique",
+        "charge_quantique"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "IRONMOTH",
+        "iconShiny": "IRONMOTH",
+        "front": "mite test",
+        "frontShiny": "",
+        "back": "mite",
+        "backShiny": "",
+        "footprint": "IRONMOTH",
+        "character": "IRONMOTH",
+        "characterShiny": "IRONMOTH",
+        "cry": "823cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "electric_terrain",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "gust",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "whirlwind",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "ember",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "acid_spray",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "struggle_bug",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fire_spin",
+          "level": 14
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "take_down",
+          "level": 21
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "lunge",
+          "level": 28
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "screech",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "discharge",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sludge_wave",
+          "level": 49
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fiery_dance",
+          "level": 56
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "metal_sound",
+          "level": 63
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "morning_sun",
+          "level": 70
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "hurricane",
+          "level": 77
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bug_buzz",
+          "level": 84
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "overheat",
+          "level": 91
+        }
+      ]
+    }
+  ]
+}

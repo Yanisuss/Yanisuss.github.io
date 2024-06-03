@@ -1,0 +1,141 @@
+{
+  "klass": "Specie",
+  "id": 864,
+  "dbSymbol": "silicobra",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "ground",
+      "type2": "__undef__",
+      "baseHp": 52,
+      "baseAtk": 57,
+      "baseDfe": 75,
+      "baseSpd": 46,
+      "baseAts": 35,
+      "baseDfs": 50,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 1,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "sandaconda",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 36
+            }
+          ]
+        }
+      ],
+      "experienceType": 1,
+      "baseExperience": 63,
+      "baseLoyalty": 70,
+      "catchRate": 255,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "silicobra",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "sand_spit",
+        "shed_skin",
+        "sand_veil"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "SILICOBRA",
+        "iconShiny": "SILICOBRA",
+        "front": "SILICOBRA",
+        "frontShiny": "SILICOBRA",
+        "back": "SILICOBRA",
+        "backShiny": "SILICOBRA",
+        "footprint": "",
+        "character": "SILICOBRA",
+        "characterShiny": "SILICOBRA",
+        "cry": "SILICOBRA.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "wrap",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sand_attack",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "minimize",
+          "level": 5
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "brutal_swing",
+          "level": 10
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bulldoze",
+          "level": 15
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "headbutt",
+          "level": 20
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "glare",
+          "level": 25
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dig",
+          "level": 30
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sandstorm",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "slam",
+          "level": 40
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "coil",
+          "level": 45
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sand_tomb",
+          "level": 50
+        }
+      ]
+    }
+  ]
+}

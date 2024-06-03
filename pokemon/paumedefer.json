@@ -1,0 +1,160 @@
+{
+  "klass": "Specie",
+  "id": 826,
+  "dbSymbol": "paumedefer",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.8,
+      "weight": 380,
+      "type1": "fighting",
+      "type2": "electric",
+      "baseHp": 154,
+      "baseAtk": 140,
+      "baseDfe": 108,
+      "baseSpd": 50,
+      "baseAts": 50,
+      "baseDfs": 68,
+      "evHp": 0,
+      "evAtk": 3,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 285,
+      "baseLoyalty": 70,
+      "catchRate": 50,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "paumedefer",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "contest_costume",
+          "chance": 5
+        }
+      ],
+      "abilities": [
+        "charge_quantique",
+        "charge_quantique",
+        "charge_quantique"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "IRONHANDS",
+        "iconShiny": "IRONHANDS",
+        "front": "peaume de fer",
+        "frontShiny": "IRONHANDS",
+        "back": "peaume de fer back",
+        "backShiny": "IRONHANDS",
+        "footprint": "IRONHANDS",
+        "character": "IRONHANDS",
+        "characterShiny": "IRONHANDS",
+        "cry": "826cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "electric_terrain",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sand_attack",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "tackle",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "focus_energy",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "arm_thrust",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fake_out",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "whirlwind",
+          "level": 14
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "thunder_punch",
+          "level": 21
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "slam",
+          "level": 28
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "force_palm",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "seismic_toss",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "charge",
+          "level": 49
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "wild_charge",
+          "level": 56
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "close_combat",
+          "level": 63
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "detect",
+          "level": 70
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "heavy_slam",
+          "level": 77
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "belly_drum",
+          "level": 84
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "focus_punch",
+          "level": 91
+        }
+      ]
+    }
+  ]
+}

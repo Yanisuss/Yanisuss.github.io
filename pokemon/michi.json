@@ -1,0 +1,135 @@
+{
+  "klass": "Specie",
+  "id": 869,
+  "dbSymbol": "michi",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "fairy",
+      "type2": "__undef__",
+      "baseHp": 65,
+      "baseAtk": 60,
+      "baseDfe": 75,
+      "baseSpd": 89,
+      "baseAts": 110,
+      "baseDfs": 121,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 2,
+      "evolutions": [],
+      "experienceType": 1,
+      "baseExperience": 173,
+      "baseLoyalty": 70,
+      "catchRate": 50,
+      "femaleRate": 0,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "michi",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "sticky_hold",
+        "gooey",
+        "aroma_veil"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "MILCERY",
+        "iconShiny": "MILCERY",
+        "front": "crémy",
+        "frontShiny": "MILCERY",
+        "back": "MILCERY",
+        "backShiny": "MILCERY",
+        "footprint": "",
+        "character": "MILCERY",
+        "characterShiny": "MILCERY",
+        "cry": "MILCERY.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "nappage",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "tackle",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "aromatic_mist",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sweet_scent",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sauce_du_chef",
+          "level": 15
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "draining_kiss",
+          "level": 15
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "aromatherapy",
+          "level": 20
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "attract",
+          "level": 25
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "acid_armor",
+          "level": 30
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dazzling_gleam",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "recover",
+          "level": 40
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "misty_terrain",
+          "level": 45
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "entrainment",
+          "level": 50
+        }
+      ]
+    }
+  ]
+}

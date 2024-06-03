@@ -1,0 +1,160 @@
+{
+  "klass": "Specie",
+  "id": 965,
+  "dbSymbol": "crepibane",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "bug",
+      "type2": "grass",
+      "baseHp": 100,
+      "baseAtk": 93,
+      "baseDfe": 80,
+      "baseSpd": 70,
+      "baseAts": 57,
+      "baseDfs": 70,
+      "evHp": 1,
+      "evAtk": 1,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 120,
+      "baseLoyalty": 70,
+      "catchRate": 150,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "crepibane",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "ripen",
+        "unnerve",
+        "thick_fat"
+      ],
+      "frontOffsetY": 0,
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bananarang",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sweet_scent",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "growth",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bite",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "spite",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fury_cutter",
+          "level": 8
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "leech_seed",
+          "level": 10
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "natural_gift",
+          "level": 16
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "poison_fang",
+          "level": 24
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bug_buzz",
+          "level": 29
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "shadow_ball",
+          "level": 33
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "embargo",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "energy_ball",
+          "level": 37
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "poison_jab",
+          "level": 39
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "synthesis",
+          "level": 41
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "x_scissor",
+          "level": 45
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "power_whip",
+          "level": 50
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fell_stinger",
+          "level": 55
+        }
+      ],
+      "resources": {
+        "icon": "banane",
+        "iconShiny": "",
+        "front": "banane f",
+        "frontShiny": "",
+        "back": "banane b",
+        "backShiny": "",
+        "footprint": "",
+        "character": "banane c",
+        "characterShiny": "",
+        "cry": "Enregistrement-2024-05-20-231652.mp3",
+        "hasFemale": false
+      }
+    }
+  ]
+}

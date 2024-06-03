@@ -1,0 +1,150 @@
+{
+  "klass": "Specie",
+  "id": 825,
+  "dbSymbol": "fongusfurie",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.2,
+      "weight": 21,
+      "type1": "grass",
+      "type2": "dark",
+      "baseHp": 111,
+      "baseAtk": 127,
+      "baseDfe": 99,
+      "baseSpd": 55,
+      "baseAts": 79,
+      "baseDfs": 99,
+      "evHp": 0,
+      "evAtk": 3,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 285,
+      "baseLoyalty": 70,
+      "catchRate": 50,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "foongus",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "contest_costume",
+          "chance": 5
+        }
+      ],
+      "abilities": [
+        "paleosynthese_",
+        "paleosynthese_",
+        "paleosynthese_"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "BRUTEBONNET",
+        "iconShiny": "BRUTEBONNET",
+        "front": "fongus",
+        "frontShiny": "BRUTEBONNET",
+        "back": "fongus back",
+        "backShiny": "fongus back",
+        "footprint": "BRUTEBONNET",
+        "character": "BRUTEBONNET",
+        "characterShiny": "BRUTEBONNET",
+        "cry": "825cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sunny_day",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "absorb",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "growth",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "astonish",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "stun_spore",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "mega_drain",
+          "level": 14
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "synthesis",
+          "level": 21
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "clear_smog",
+          "level": 28
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "payback",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "thrash",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "giga_drain",
+          "level": 49
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sucker_punch",
+          "level": 56
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "spore",
+          "level": 63
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "ingrain",
+          "level": 70
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rage_powder",
+          "level": 77
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "solar_beam",
+          "level": 91
+        }
+      ]
+    }
+  ]
+}

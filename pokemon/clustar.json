@@ -1,0 +1,80 @@
+{
+  "klass": "Specie",
+  "id": 970,
+  "dbSymbol": "clustar",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "vide",
+      "type2": "rock",
+      "baseHp": 55,
+      "baseAtk": 40,
+      "baseDfe": 85,
+      "baseSpd": 50,
+      "baseAts": 105,
+      "baseDfs": 70,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 2,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "astervoid",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "stone",
+              "value": "dusk_stone"
+            }
+          ]
+        }
+      ],
+      "experienceType": 1,
+      "baseExperience": 142,
+      "baseLoyalty": 70,
+      "catchRate": 60,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "clustar",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "stardust",
+          "chance": 20
+        },
+        {
+          "dbSymbol": "comet_shard",
+          "chance": 1
+        }
+      ],
+      "abilities": [
+        "paraobscur",
+        "paraobscur",
+        "levitate"
+      ],
+      "frontOffsetY": 0,
+      "moveSet": [],
+      "resources": {
+        "icon": "star i2",
+        "iconShiny": "",
+        "front": "star2",
+        "frontShiny": "",
+        "back": "star b2",
+        "backShiny": "",
+        "footprint": "",
+        "character": "star c",
+        "characterShiny": "",
+        "cry": "star.mp3",
+        "hasFemale": false
+      }
+    }
+  ]
+}

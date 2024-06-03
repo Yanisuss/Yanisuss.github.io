@@ -1,0 +1,136 @@
+{
+  "klass": "Specie",
+  "id": 866,
+  "dbSymbol": "minisange",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "flying",
+      "type2": "__undef__",
+      "baseHp": 38,
+      "baseAtk": 47,
+      "baseDfe": 35,
+      "baseSpd": 57,
+      "baseAts": 33,
+      "baseDfs": 35,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 1,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "corviquire",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 18
+            }
+          ]
+        }
+      ],
+      "experienceType": 3,
+      "baseExperience": 49,
+      "baseLoyalty": 70,
+      "catchRate": 255,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "minisange",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "keen_eye",
+        "unnerve",
+        "big_pecks"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "ROOKIDEE",
+        "iconShiny": "",
+        "front": "ROOKIDEE",
+        "frontShiny": "ROOKIDEE",
+        "back": "ROOKIDEE",
+        "backShiny": "ROOKIDEE",
+        "footprint": "",
+        "character": "ROOKIDEE",
+        "characterShiny": "",
+        "cry": "ROOKIDEE.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "leer",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "peck",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "power_trip",
+          "level": 4
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "hone_claws",
+          "level": 8
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fury_attack",
+          "level": 12
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "pluck",
+          "level": 16
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "taunt",
+          "level": 20
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "scary_face",
+          "level": 24
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "drill_peck",
+          "level": 28
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "swagger",
+          "level": 32
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "brave_bird",
+          "level": 36
+        }
+      ]
+    }
+  ]
+}

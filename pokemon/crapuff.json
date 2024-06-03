@@ -1,0 +1,160 @@
+{
+  "klass": "Specie",
+  "id": 856,
+  "dbSymbol": "crapuff",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "fire",
+      "type2": "poison",
+      "baseHp": 40,
+      "baseAtk": 35,
+      "baseDfe": 45,
+      "baseSpd": 70,
+      "baseAts": 95,
+      "baseDfs": 45,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 1,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "chichapaud",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 32
+            },
+            {
+              "type": "itemHold",
+              "value": "candy_jar"
+            }
+          ]
+        }
+      ],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 45,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "crapuff",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "corrosion",
+        "flare_boost",
+        "__undef__"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "",
+        "iconShiny": "",
+        "front": "Smoald",
+        "frontShiny": "Smoald",
+        "back": "Smoald",
+        "backShiny": "Smoald",
+        "footprint": "",
+        "character": "",
+        "characterShiny": "",
+        "cry": "",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "growl",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "tackle",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "ember",
+          "level": 5
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "focus_energy",
+          "level": 8
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "poison_gas",
+          "level": 12
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "flame_burst",
+          "level": 15
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "amnesia",
+          "level": 19
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "lava_plume",
+          "level": 22
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "toxic",
+          "level": 26
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "curse",
+          "level": 29
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sludge_bomb",
+          "level": 31
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "yawn",
+          "level": 36
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "gunk_shot",
+          "level": 40
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "flamethrower",
+          "level": 43
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sludge_wave",
+          "level": 47
+        }
+      ]
+    }
+  ]
+}

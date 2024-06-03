@@ -1,0 +1,80 @@
+{
+  "klass": "Specie",
+  "id": 877,
+  "dbSymbol": "shroodle",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "poison",
+      "type2": "normal",
+      "baseHp": 40,
+      "baseAtk": 65,
+      "baseDfe": 35,
+      "baseSpd": 75,
+      "baseAts": 40,
+      "baseDfs": 35,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 1,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "grafaiai",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 28
+            }
+          ]
+        }
+      ],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 190,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "shroodle",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "unburden",
+        "pickpocket",
+        "prankster"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "SHROODLE",
+        "iconShiny": "SHROODLE",
+        "front": "SHROODLE",
+        "frontShiny": "SHROODLE",
+        "back": "SHROODLE",
+        "backShiny": "SHROODLE",
+        "footprint": "",
+        "character": "SHROODLE",
+        "characterShiny": "SHROODLE",
+        "cry": "SHROODLE.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
+}

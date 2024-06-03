@@ -1,0 +1,146 @@
+{
+  "klass": "Specie",
+  "id": 855,
+  "dbSymbol": "duralgon",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "steel",
+      "type2": "dragon",
+      "baseHp": 70,
+      "baseAtk": 95,
+      "baseDfe": 115,
+      "baseSpd": 85,
+      "baseAts": 120,
+      "baseDfs": 50,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 2,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "pondralugon",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "stone",
+              "value": "metal_composite"
+            }
+          ]
+        }
+      ],
+      "experienceType": 1,
+      "baseExperience": 187,
+      "baseLoyalty": 70,
+      "catchRate": 45,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "duralgon",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "light_metal",
+        "heavy_metal",
+        "stalwart"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "DURALUDON",
+        "iconShiny": "DURALUDON",
+        "front": "DURALUDON",
+        "frontShiny": "DURALUDON",
+        "back": "DURALUDON",
+        "backShiny": "DURALUDON",
+        "footprint": "",
+        "character": "DURALUDON",
+        "characterShiny": "DURALUDON",
+        "cry": "DURALUDON.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "metal_claw",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "leer",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rock_smash",
+          "level": 6
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "hone_claws",
+          "level": 12
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "metal_sound",
+          "level": 18
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "abattage",
+          "level": 24
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dragon_tail",
+          "level": 30
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "iron_defense",
+          "level": 36
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "focus_energy",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dragon_claw",
+          "level": 48
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "flash_cannon",
+          "level": 54
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "metal_burst",
+          "level": 60
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "hyper_beam",
+          "level": 66
+        }
+      ]
+    }
+  ]
+}

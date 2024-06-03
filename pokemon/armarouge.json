@@ -1,0 +1,69 @@
+{
+  "klass": "Specie",
+  "id": 915,
+  "dbSymbol": "armarouge",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.5,
+      "weight": 85,
+      "type1": "fire",
+      "type2": "psychic",
+      "baseHp": 85,
+      "baseAtk": 60,
+      "baseDfe": 100,
+      "baseSpd": 75,
+      "baseAts": 125,
+      "baseDfs": 80,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 2,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 25,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "armarouge",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "flash_fire",
+        "flash_fire",
+        "weak_armor"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "ARMAROUGE",
+        "iconShiny": "ARMAROUGE",
+        "front": "ARMAROUGE",
+        "frontShiny": "ARMAROUGE",
+        "back": "ARMAROUGE",
+        "backShiny": "ARMAROUGE",
+        "footprint": "ARMAROUGE",
+        "character": "ARMAROUGE",
+        "characterShiny": "ARMAROUGE",
+        "cry": "ARMAROUGE.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
+}

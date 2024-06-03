@@ -1,0 +1,69 @@
+{
+  "klass": "Specie",
+  "id": 925,
+  "dbSymbol": "pondralugon",
+  "forms": [
+    {
+      "form": 0,
+      "height": 2,
+      "weight": 60,
+      "type1": "steel",
+      "type2": "dragon",
+      "baseHp": 90,
+      "baseAtk": 105,
+      "baseDfe": 130,
+      "baseSpd": 85,
+      "baseAts": 125,
+      "baseDfs": 65,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 3,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 10,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "pondralugon",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "stamina",
+        "sturdy",
+        "stalwart"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "pondralugon_i-removebg-preview",
+        "iconShiny": "pondralugon_i-removebg-preview",
+        "front": "archaludon 96x96",
+        "frontShiny": "archaludon 96x96",
+        "back": "pondralugon_b-removebg-preview",
+        "backShiny": "pondralugon_b-removebg-preview",
+        "footprint": "",
+        "character": "archaludon_overworld_sprite_by_darkusshadow_dgy5yrs",
+        "characterShiny": "archaludon_overworld_sprite_by_darkusshadow_dgy5yrs",
+        "cry": "Cri_1018_EV.mp3",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "klass": "Specie",
+  "id": 843,
+  "dbSymbol": "jevil",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.5,
+      "weight": 50,
+      "type1": "chaos",
+      "type2": "__undef__",
+      "baseHp": 100,
+      "baseAtk": 80,
+      "baseDfe": 115,
+      "baseSpd": 200,
+      "baseAts": 150,
+      "baseDfs": 115,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 2,
+      "evAts": 1,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 255,
+      "baseLoyalty": 0,
+      "catchRate": 3,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1000000000,
+      "babyDbSymbol": "jevil",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "chaos_cloud",
+        "chaos_cloud",
+        "chaos_cloud"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "Jevil",
+        "iconShiny": "Jevil",
+        "front": "jevil-deltarune",
+        "frontShiny": "",
+        "back": "jevil b",
+        "backShiny": "",
+        "footprint": "",
+        "character": "",
+        "characterShiny": "",
+        "cry": "843cry.mp3",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "carte_jocker",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "duc_enflamme",
+          "level": 20
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "tsunami_de_pics",
+          "level": 40
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "deluge_das",
+          "level": 50
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "jevil_knife",
+          "level": 75
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "tour_de_manege",
+          "level": 90
+        }
+      ]
+    }
+  ]
+}

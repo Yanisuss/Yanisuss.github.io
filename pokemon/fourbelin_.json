@@ -1,0 +1,139 @@
+{
+  "klass": "Specie",
+  "id": 815,
+  "dbSymbol": "fourbelin_",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.8,
+      "weight": 12.5,
+      "type1": "dark",
+      "type2": "fairy",
+      "baseHp": 65,
+      "baseAtk": 60,
+      "baseDfe": 45,
+      "baseSpd": 70,
+      "baseAts": 75,
+      "baseDfs": 55,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 1,
+      "baseExperience": 130,
+      "baseLoyalty": 50,
+      "catchRate": 120,
+      "femaleRate": 0,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "grimalin",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "prankster",
+        "frisk",
+        "pickpocket"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "860_icon",
+        "iconShiny": "",
+        "front": "860",
+        "frontShiny": "",
+        "back": "860b",
+        "backShiny": "",
+        "footprint": "",
+        "character": "",
+        "characterShiny": "",
+        "cry": "815cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fake_out",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "confide",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "flatter",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bite",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fake_tears",
+          "level": 12
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "assurance",
+          "level": 16
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "swagger",
+          "level": 20
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sucker_punch",
+          "level": 24
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "torment",
+          "level": 28
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dark_pulse",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "play_rough",
+          "level": 40
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "nasty_plot",
+          "level": 46
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "foul_play",
+          "level": 52
+        },
+        {
+          "klass": "EvolutionLearnableMove",
+          "move": "fourbette"
+        }
+      ]
+    }
+  ]
+}

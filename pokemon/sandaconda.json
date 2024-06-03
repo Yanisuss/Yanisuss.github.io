@@ -1,0 +1,192 @@
+{
+  "klass": "Specie",
+  "id": 865,
+  "dbSymbol": "sandaconda",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "ground",
+      "type2": "__undef__",
+      "baseHp": 72,
+      "baseAtk": 107,
+      "baseDfe": 125,
+      "baseSpd": 71,
+      "baseAts": 65,
+      "baseDfs": 70,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 2,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 1,
+      "baseExperience": 179,
+      "baseLoyalty": 70,
+      "catchRate": 120,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "sandaconda",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "sand_spit",
+        "shed_skin",
+        "sand_veil"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "SANDACONDA",
+        "iconShiny": "SANDACONDA",
+        "front": "SANDACONDA",
+        "frontShiny": "SANDACONDA",
+        "back": "SANDACONDA",
+        "backShiny": "SANDACONDA",
+        "footprint": "",
+        "character": "SANDACONDA",
+        "characterShiny": "SANDACONDA",
+        "cry": "SANDACONDA.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "wrap",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sand_attack",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "brutal_swing",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "minimize",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bulldoze",
+          "level": 15
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "headbutt",
+          "level": 20
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "glare",
+          "level": 25
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dig",
+          "level": 30
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sandstorm",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "slam",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "coil",
+          "level": 49
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sand_tomb",
+          "level": 51
+        }
+      ]
+    },
+    {
+      "form": 30,
+      "height": 0,
+      "weight": 0,
+      "type1": "ground",
+      "type2": "__undef__",
+      "baseHp": 72,
+      "baseAtk": 117,
+      "baseDfe": 180,
+      "baseSpd": 61,
+      "baseAts": 75,
+      "baseDfs": 80,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 2,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 120,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "sandaconda",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "sand_spit",
+        "shed_skin",
+        "sand_veil"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "SANDACONDA_gmax",
+        "iconShiny": "",
+        "front": "SANDACONDA_gmax",
+        "frontShiny": "SANDACONDA_gmax",
+        "back": "SANDACONDA_gmax",
+        "backShiny": "SANDACONDA_gmax",
+        "footprint": "",
+        "character": "SANDACONDA",
+        "characterShiny": "SANDACONDA",
+        "cry": "SANDACONDA.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
+}

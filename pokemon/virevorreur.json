@@ -1,0 +1,145 @@
+{
+  "klass": "Specie",
+  "id": 816,
+  "dbSymbol": "virevorreur",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.2,
+      "weight": 6,
+      "type1": "grass",
+      "type2": "ghost",
+      "baseHp": 55,
+      "baseAtk": 115,
+      "baseDfe": 70,
+      "baseSpd": 90,
+      "baseAts": 80,
+      "baseDfs": 70,
+      "evHp": 0,
+      "evAtk": 2,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 1,
+      "baseExperience": 168,
+      "baseLoyalty": 70,
+      "catchRate": 45,
+      "femaleRate": 50,
+      "breedGroups": [
+        7,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "virovent",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "wind_rider",
+        "wind_rider",
+        "infiltrator"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "BRAMBLEGHAST",
+        "iconShiny": "BRAMBLEGHAST",
+        "front": "BRAMBLEGHAST",
+        "frontShiny": "BRAMBLEGHAST",
+        "back": "BRAMBLEGHAST",
+        "backShiny": "BRAMBLEGHAST",
+        "footprint": "BRAMBLEGHAST",
+        "character": "",
+        "characterShiny": "",
+        "cry": "816cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "defense_curl",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "astonish",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rollout",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "absorb",
+          "level": 5
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rapid_spin",
+          "level": 9
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bullet_seed",
+          "level": 13
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "infestation",
+          "level": 17
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "hex",
+          "level": 21
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "mega_drain",
+          "level": 25
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "disable",
+          "level": 29
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "phantom_force",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "giga_drain",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "curse",
+          "level": 45
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "pain_split",
+          "level": 50
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "power_whip",
+          "level": 55
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "klass": "Specie",
+  "id": 913,
+  "dbSymbol": "capsakid",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "grass",
+      "type2": "__undef__",
+      "baseHp": 50,
+      "baseAtk": 62,
+      "baseDfe": 40,
+      "baseSpd": 50,
+      "baseAts": 62,
+      "baseDfs": 40,
+      "evHp": 0,
+      "evAtk": 1,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "scovillain",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "stone",
+              "value": "fire_stone"
+            }
+          ]
+        }
+      ],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 190,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "capsakid",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "chlorophyll",
+        "insomnia",
+        "klutz"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "CAPSAKID",
+        "iconShiny": "CAPSAKID",
+        "front": "CAPSAKID",
+        "frontShiny": "CAPSAKID",
+        "back": "CAPSAKID",
+        "backShiny": "CAPSAKID",
+        "footprint": "CAPSAKID",
+        "character": "CAPSAKID",
+        "characterShiny": "CAPSAKID",
+        "cry": "CAPSAKID.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
+}

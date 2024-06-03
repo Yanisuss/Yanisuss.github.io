@@ -1,0 +1,98 @@
+{
+  "klass": "Specie",
+  "id": 908,
+  "dbSymbol": "motorizard",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "normal",
+      "type2": "dragon",
+      "baseHp": 70,
+      "baseAtk": 95,
+      "baseDfe": 65,
+      "baseSpd": 121,
+      "baseAts": 85,
+      "baseDfs": 65,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 2,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "koraidon",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 60
+            },
+            {
+              "type": "stone",
+              "value": "fragment_du_passe"
+            }
+          ]
+        },
+        {
+          "dbSymbol": "miraidon",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 60
+            },
+            {
+              "type": "stone",
+              "value": "fragment_du_futur"
+            }
+          ]
+        }
+      ],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 190,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "motorizard",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "shed_skin",
+        "shed_skin",
+        "regenerator"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "CYCLIZAR",
+        "iconShiny": "CYCLIZAR",
+        "front": "motorizard",
+        "frontShiny": "CYCLIZAR",
+        "back": "motorizard b",
+        "backShiny": "",
+        "footprint": "CYCLIZAR",
+        "character": "CYCLIZAR",
+        "characterShiny": "CYCLIZAR",
+        "cry": "CYCLIZAR.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
+}

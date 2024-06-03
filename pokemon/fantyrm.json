@@ -1,0 +1,101 @@
+{
+  "klass": "Specie",
+  "id": 854,
+  "dbSymbol": "fantyrm",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "dragon",
+      "type2": "ghost",
+      "baseHp": 28,
+      "baseAtk": 60,
+      "baseDfe": 30,
+      "baseSpd": 82,
+      "baseAts": 40,
+      "baseDfs": 30,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 1,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "drakloak",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 50
+            }
+          ]
+        }
+      ],
+      "experienceType": 2,
+      "baseExperience": 54,
+      "baseLoyalty": 70,
+      "catchRate": 45,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "fantyrm",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "clear_body",
+        "infiltrator",
+        "cursed_body"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "DREEPY",
+        "iconShiny": "DREEPY",
+        "front": "DREEPY",
+        "frontShiny": "DREEPY",
+        "back": "DREEPY",
+        "backShiny": "DREEPY",
+        "footprint": "",
+        "character": "DREEPY",
+        "characterShiny": "DREEPY",
+        "cry": "DREEPY.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bite",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "infestation",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "astonish",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "quick_attack",
+          "level": 1
+        }
+      ]
+    }
+  ]
+}

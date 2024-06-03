@@ -1,0 +1,69 @@
+{
+  "klass": "Specie",
+  "id": 963,
+  "dbSymbol": "desperogue",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "grass",
+      "type2": "justice",
+      "baseHp": 80,
+      "baseAtk": 50,
+      "baseDfe": 60,
+      "baseSpd": 110,
+      "baseAts": 130,
+      "baseDfs": 70,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 2,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 4,
+      "baseExperience": 167,
+      "baseLoyalty": 35,
+      "catchRate": 50,
+      "femaleRate": 0,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "desperogue",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "sniper",
+        "sand_rush",
+        "rivalry"
+      ],
+      "frontOffsetY": 0,
+      "moveSet": [],
+      "resources": {
+        "icon": "desper i",
+        "iconShiny": "",
+        "front": "desper",
+        "frontShiny": "",
+        "back": "desper b",
+        "backShiny": "",
+        "footprint": "",
+        "character": "desper c",
+        "characterShiny": "",
+        "cry": "",
+        "hasFemale": false
+      }
+    }
+  ]
+}

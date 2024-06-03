@@ -1,0 +1,155 @@
+{
+  "klass": "Specie",
+  "id": 840,
+  "dbSymbol": "regicrack",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.6,
+      "weight": 148,
+      "type1": "rock",
+      "type2": "ghost",
+      "baseHp": 80,
+      "baseAtk": 50,
+      "baseDfe": 75,
+      "baseSpd": 100,
+      "baseAts": 125,
+      "baseDfs": 150,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 3,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 255,
+      "baseLoyalty": 0,
+      "catchRate": 3,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "regicrack",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "weak_armor",
+        "cursed_body",
+        "shadow_tag"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "377",
+        "iconShiny": "",
+        "front": "régicrack",
+        "frontShiny": "",
+        "back": "regirode b",
+        "backShiny": "",
+        "footprint": "",
+        "character": "",
+        "characterShiny": "",
+        "cry": "840cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "explosion",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "stomp",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rock_throw",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "shadow_sneak",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bulldoze",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rock_throw",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "night_shade",
+          "level": 13
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bulldoze",
+          "level": 19
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "curse",
+          "level": 25
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "ancient_power",
+          "level": 31
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "iron_defense",
+          "level": 37
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "stone_edge",
+          "level": 43
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "shadow_ball",
+          "level": 49
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "lock_on",
+          "level": 55
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "ominous_wind",
+          "level": 55
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "superpower",
+          "level": 61
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "hyper_beam",
+          "level": 67
+        }
+      ]
+    }
+  ]
+}

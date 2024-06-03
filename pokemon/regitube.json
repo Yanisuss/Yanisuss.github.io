@@ -1,0 +1,155 @@
+{
+  "klass": "Specie",
+  "id": 844,
+  "dbSymbol": "regitube",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.9,
+      "weight": 200,
+      "type1": "water",
+      "type2": "__undef__",
+      "baseHp": 150,
+      "baseAtk": 50,
+      "baseDfe": 50,
+      "baseSpd": 50,
+      "baseAts": 150,
+      "baseDfs": 130,
+      "evHp": 1,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 1,
+      "evDfs": 1,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 261,
+      "baseLoyalty": 35,
+      "catchRate": 3,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 30000,
+      "babyDbSymbol": "regitube",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "clear_body",
+        "clear_body",
+        "water_absorb"
+      ],
+      "frontOffsetY": 0,
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "explosion",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "stomp",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "substitute",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rest",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sleep_talk",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "water_pulse",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rapid_spin",
+          "level": 13
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "recover",
+          "level": 19
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "taunt",
+          "level": 25
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "muddy_water",
+          "level": 31
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "knock_off",
+          "level": 37
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "surf",
+          "level": 43
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "energy_ball",
+          "level": 49
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "toboggan_aquatique",
+          "level": 55
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "lock_on",
+          "level": 58
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "hydro_pump",
+          "level": 61
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "focus_blast",
+          "level": 67
+        }
+      ],
+      "resources": {
+        "icon": "",
+        "iconShiny": "",
+        "front": "regitube_animated_pokemon_sprite_by_retronc_dgiqo3w",
+        "frontShiny": "",
+        "back": "regitube b",
+        "backShiny": "",
+        "footprint": "",
+        "character": "",
+        "characterShiny": "",
+        "cry": "844cry.ogg",
+        "hasFemale": false
+      }
+    }
+  ]
+}

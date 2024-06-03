@@ -1,0 +1,146 @@
+{
+  "klass": "Specie",
+  "id": 813,
+  "dbSymbol": "rongourmand",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.3,
+      "weight": 2.5,
+      "type1": "normal",
+      "type2": "__undef__",
+      "baseHp": 70,
+      "baseAtk": 55,
+      "baseDfe": 55,
+      "baseSpd": 25,
+      "baseAts": 35,
+      "baseDfs": 35,
+      "evHp": 1,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "tidark",
+          "form": 0,
+          "conditions": []
+        },
+        {
+          "dbSymbol": "tidimob",
+          "form": 0,
+          "conditions": []
+        }
+      ],
+      "experienceType": 0,
+      "baseExperience": 55,
+      "baseLoyalty": 70,
+      "catchRate": 45,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "rongourmand",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "cheek_pouch",
+        "cheek_pouch",
+        "gluttony"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "Rongourmand",
+        "iconShiny": "",
+        "front": "skwovet_sprite_by_kingtapir_ddm47ws-fullview",
+        "frontShiny": "",
+        "back": "819b",
+        "backShiny": "",
+        "footprint": "",
+        "character": "",
+        "characterShiny": "",
+        "cry": "813cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "tackle",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "tail_whip",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bite",
+          "level": 5
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "defense_curl",
+          "level": 10
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "swallow",
+          "level": 15
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "spit_up",
+          "level": 15
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "stockpile",
+          "level": 15
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "body_slam",
+          "level": 20
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rest",
+          "level": 25
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "counter",
+          "level": 30
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bullet_seed",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "super_fang",
+          "level": 40
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "belch",
+          "level": 45
+        }
+      ]
+    }
+  ]
+}

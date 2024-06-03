@@ -1,0 +1,155 @@
+{
+  "klass": "Specie",
+  "id": 808,
+  "dbSymbol": "fortivoire",
+  "forms": [
+    {
+      "form": 0,
+      "height": 2.2,
+      "weight": 320,
+      "type1": "ground",
+      "type2": "fighting",
+      "baseHp": 115,
+      "baseAtk": 131,
+      "baseDfe": 131,
+      "baseSpd": 87,
+      "baseAts": 53,
+      "baseDfs": 53,
+      "evHp": 0,
+      "evAtk": 3,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 285,
+      "baseLoyalty": 70,
+      "catchRate": 30,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "phanpy",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "contest_costume",
+          "chance": 5
+        }
+      ],
+      "abilities": [
+        "paleosynthese_",
+        "paleosynthese_",
+        "paleosynthese_"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "GREATTUSK",
+        "iconShiny": "GREATTUSK",
+        "front": "fort ivoire",
+        "frontShiny": "GREATTUSK",
+        "back": "fort ivoire back",
+        "backShiny": "GREATTUSK",
+        "footprint": "GREATTUSK",
+        "character": "GREATTUSK",
+        "characterShiny": "GREATTUSK",
+        "cry": "808cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "horn_attack",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "defense_curl",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rollout",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sunny_day",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bulldoze",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "taunt",
+          "level": 14
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rapid_spin",
+          "level": 21
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "brick_break",
+          "level": 28
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "stomping_tantrum",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "knock_off",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "earthquake",
+          "level": 49
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "giga_impact",
+          "level": 56
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "close_combat",
+          "level": 63
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "endeavor",
+          "level": 70
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "megahorn",
+          "level": 77
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "head_smash",
+          "level": 84
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "assaut_frontal",
+          "level": 91
+        }
+      ]
+    }
+  ]
+}

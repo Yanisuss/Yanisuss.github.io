@@ -1,0 +1,80 @@
+{
+  "klass": "Specie",
+  "id": 845,
+  "dbSymbol": "the_world",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.9,
+      "weight": 80,
+      "type1": "dark",
+      "type2": "fighting",
+      "baseHp": 80,
+      "baseAtk": 125,
+      "baseDfe": 75,
+      "baseSpd": 130,
+      "baseAts": 65,
+      "baseDfs": 75,
+      "evHp": 0,
+      "evAtk": 1,
+      "evDfe": 0,
+      "evSpd": 2,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 1,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 10,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "the_world",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "regenerator",
+        "dry_skin",
+        "forewarn"
+      ],
+      "frontOffsetY": -115,
+      "resources": {
+        "icon": "The world",
+        "iconShiny": "The world",
+        "front": "dio laranja_10200-3",
+        "frontShiny": "",
+        "back": "dio laranja_13000-8",
+        "backShiny": "",
+        "footprint": "",
+        "character": "",
+        "characterShiny": "",
+        "cry": "845cry.mp3",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "the_warudoo",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "road_roller",
+          "level": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "klass": "Specie",
+  "id": 870,
+  "dbSymbol": "tutetekri",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "ground",
+      "type2": "ghost",
+      "baseHp": 58,
+      "baseAtk": 95,
+      "baseDfe": 145,
+      "baseSpd": 30,
+      "baseAts": 50,
+      "baseDfs": 105,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 2,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 1,
+      "baseExperience": 169,
+      "baseLoyalty": 70,
+      "catchRate": 90,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "tutetekri",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "wandering_spirit",
+        "wandering_spirit",
+        "wandering_spirit"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "RUNERIGUS",
+        "iconShiny": "RUNERIGUS",
+        "front": "RUNERIGUS",
+        "frontShiny": "RUNERIGUS",
+        "back": "RUNERIGUS",
+        "backShiny": "RUNERIGUS",
+        "footprint": "",
+        "character": "RUNERIGUS",
+        "characterShiny": "RUNERIGUS",
+        "cry": "RUNERIGUS.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
+}

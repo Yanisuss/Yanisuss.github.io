@@ -1,0 +1,69 @@
+{
+  "klass": "Specie",
+  "id": 873,
+  "dbSymbol": "blancoton",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "grass",
+      "type2": "__undef__",
+      "baseHp": 60,
+      "baseAtk": 50,
+      "baseDfe": 90,
+      "baseSpd": 60,
+      "baseAts": 80,
+      "baseDfs": 120,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 3,
+      "evolutions": [],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 75,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "blancoton",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "cotton_down",
+        "regenerator",
+        "effect_spore"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "ELDEGOSS",
+        "iconShiny": "ELDEGOSS",
+        "front": "ELDEGOSS",
+        "frontShiny": "ELDEGOSS",
+        "back": "ELDEGOSS",
+        "backShiny": "ELDEGOSS",
+        "footprint": "",
+        "character": "ELDEGOSS",
+        "characterShiny": "ELDEGOSS",
+        "cry": "ELDEGOSS.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
+}

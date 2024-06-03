@@ -1,0 +1,206 @@
+{
+  "klass": "Specie",
+  "id": 868,
+  "dbSymbol": "corviknight",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "flying",
+      "type2": "steel",
+      "baseHp": 98,
+      "baseAtk": 87,
+      "baseDfe": 105,
+      "baseSpd": 67,
+      "baseAts": 53,
+      "baseDfs": 85,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 3,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 3,
+      "baseExperience": 248,
+      "baseLoyalty": 70,
+      "catchRate": 45,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "corviknight",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "pressure",
+        "unnerve",
+        "mirror_armor"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "CORVIKNIGHT",
+        "iconShiny": "CORVIKNIGHT",
+        "front": "CORVIKNIGHT",
+        "frontShiny": "CORVIKNIGHT",
+        "back": "CORVIKNIGHT",
+        "backShiny": "CORVIKNIGHT",
+        "footprint": "",
+        "character": "CORVIKNIGHT",
+        "characterShiny": "CORVIKNIGHT",
+        "cry": "CORVIKNIGHT.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "leer",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "peck",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "hone_claws",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "power_trip",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "iron_defense",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "metal_sound",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "screech",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fury_attack",
+          "level": 12
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "pluck",
+          "level": 16
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "taunt",
+          "level": 22
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "scary_face",
+          "level": 28
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "drill_peck",
+          "level": 34
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "swagger",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "brave_bird",
+          "level": 50
+        },
+        {
+          "klass": "EvolutionLearnableMove",
+          "move": "steel_wing"
+        }
+      ]
+    },
+    {
+      "form": 30,
+      "height": 0,
+      "weight": 0,
+      "type1": "flying",
+      "type2": "steel",
+      "baseHp": 98,
+      "baseAtk": 110,
+      "baseDfe": 137,
+      "baseSpd": 57,
+      "baseAts": 63,
+      "baseDfs": 85,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 3,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 45,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "corviknight",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "pressure",
+        "unnerve",
+        "mirror_armor"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "CORVIKNIGHT_1",
+        "iconShiny": "CORVIKNIGHT_1",
+        "front": "CORVIKNIGHT_gmax",
+        "frontShiny": "CORVIKNIGHT_gmax",
+        "back": "CORVIKNIGHT_gmax",
+        "backShiny": "CORVIKNIGHT_gmax",
+        "footprint": "",
+        "character": "CORVIKNIGHT",
+        "characterShiny": "CORVIKNIGHT",
+        "cry": "CORVIKNIGHT.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
+}

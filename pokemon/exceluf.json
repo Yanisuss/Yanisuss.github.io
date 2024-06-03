@@ -1,0 +1,141 @@
+{
+  "klass": "Specie",
+  "id": 973,
+  "dbSymbol": "exceluf",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "normal",
+      "type2": "__undef__",
+      "baseHp": 83,
+      "baseAtk": 40,
+      "baseDfe": 80,
+      "baseSpd": 93,
+      "baseAts": 70,
+      "baseDfs": 96,
+      "evHp": 1,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 1,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "royolapin",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "stone",
+              "value": "fire_stone"
+            }
+          ]
+        }
+      ],
+      "experienceType": 3,
+      "baseExperience": 162,
+      "baseLoyalty": 70,
+      "catchRate": 90,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "lapoeuf",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "lucky_egg",
+          "chance": 5
+        }
+      ],
+      "abilities": [
+        "quick_feet",
+        "bond_rapide",
+        "huge_power"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "oeuf i",
+        "iconShiny": "",
+        "front": "oeuf",
+        "frontShiny": "",
+        "back": "oeuf b",
+        "backShiny": "",
+        "footprint": "",
+        "character": "oeuf c",
+        "characterShiny": "",
+        "cry": "oeuf.mp3",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "pound",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "charm",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "joyeuse_claque",
+          "level": 5
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "defense_curl",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rollout",
+          "level": 10
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "encore",
+          "level": 12
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "double_slap",
+          "level": 16
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "refresh",
+          "level": 20
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "egg_bomb",
+          "level": 24
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bounce",
+          "level": 29
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "play_rough",
+          "level": 37
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "double_edge",
+          "level": 43
+        }
+      ]
+    }
+  ]
+}

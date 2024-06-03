@@ -1,0 +1,160 @@
+{
+  "klass": "Specie",
+  "id": 818,
+  "dbSymbol": "epinedefer",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.6,
+      "weight": 303,
+      "type1": "rock",
+      "type2": "electric",
+      "baseHp": 100,
+      "baseAtk": 134,
+      "baseDfe": 125,
+      "baseSpd": 72,
+      "baseAts": 70,
+      "baseDfs": 84,
+      "evHp": 0,
+      "evAtk": 3,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 285,
+      "baseLoyalty": 70,
+      "catchRate": 30,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "epinedefer",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "contest_costume",
+          "chance": 5
+        }
+      ],
+      "abilities": [
+        "charge_quantique",
+        "charge_quantique",
+        "charge_quantique"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "IRONTHORNS",
+        "iconShiny": "IRONTHORNS",
+        "front": "épine de fer",
+        "frontShiny": "épine de fer shiny",
+        "back": "IRONTHORNS",
+        "backShiny": "IRONTHORNS",
+        "footprint": "IRONTHORNS",
+        "character": "IRONTHORNS",
+        "characterShiny": "IRONTHORNS",
+        "cry": "818cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "electric_terrain",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rock_throw",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fire_fang",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "thunder_fang",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "ice_fang",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "iron_defense",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "screech",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rock_tomb",
+          "level": 21
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bite",
+          "level": 28
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "charge",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rock_slide",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sandstorm",
+          "level": 49
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "wild_charge",
+          "level": 56
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "pin_missile",
+          "level": 63
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "earthquake",
+          "level": 70
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "stealth_rock",
+          "level": 77
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "stone_edge",
+          "level": 84
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "giga_impact",
+          "level": 91
+        }
+      ]
+    }
+  ]
+}

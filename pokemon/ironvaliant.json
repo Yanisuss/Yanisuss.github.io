@@ -1,0 +1,165 @@
+{
+  "klass": "Specie",
+  "id": 820,
+  "dbSymbol": "ironvaliant",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.4,
+      "weight": 35,
+      "type1": "fairy",
+      "type2": "fighting",
+      "baseHp": 74,
+      "baseAtk": 130,
+      "baseDfe": 90,
+      "baseSpd": 116,
+      "baseAts": 120,
+      "baseDfs": 60,
+      "evHp": 0,
+      "evAtk": 3,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 295,
+      "baseLoyalty": 70,
+      "catchRate": 10,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "ironvaliant",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "contest_costume",
+          "chance": 5
+        }
+      ],
+      "abilities": [
+        "charge_quantique",
+        "charge_quantique",
+        "charge_quantique"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "IRONVALIANT",
+        "iconShiny": "IRONVALIANT",
+        "front": "garde de fer",
+        "frontShiny": "IRONVALIANT",
+        "back": "garde de fer back",
+        "backShiny": "IRONVALIANT",
+        "footprint": "IRONVALIANT",
+        "character": "IRONVALIANT",
+        "characterShiny": "IRONVALIANT",
+        "cry": "820cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "electric_terrain",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "disable",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "double_team",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "shadow_sneak",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fury_cutter",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "hypnosis",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "feint",
+          "level": 14
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "future_sight",
+          "level": 21
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dazzling_gleam",
+          "level": 28
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "psycho_cut",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "night_slash",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "leaf_blade",
+          "level": 49
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "moonblast",
+          "level": 56
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "close_combat",
+          "level": 63
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "knock_off",
+          "level": 70
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "destiny_bond",
+          "level": 77
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "wide_guard",
+          "level": 84
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "quick_guard",
+          "level": 84
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "choc_emotionnel",
+          "level": 91
+        }
+      ]
+    }
+  ]
+}

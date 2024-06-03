@@ -1,0 +1,193 @@
+{
+  "klass": "Specie",
+  "id": 885,
+  "dbSymbol": "tatsugiri",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "dragon",
+      "type2": "water",
+      "baseHp": 68,
+      "baseAtk": 50,
+      "baseDfe": 60,
+      "baseSpd": 82,
+      "baseAts": 120,
+      "baseDfs": 95,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 2,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 100,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "tatsugiri",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "__undef__",
+        "__undef__",
+        "storm_drain"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "TATSUGIRI",
+        "iconShiny": "TATSUGIRI",
+        "front": "TATSUGIRI",
+        "frontShiny": "TATSUGIRI",
+        "back": "TATSUGIRI",
+        "backShiny": "TATSUGIRI",
+        "footprint": "TATSUGIRI",
+        "character": "TATSUGIRI",
+        "characterShiny": "TATSUGIRI",
+        "cry": "TATSUGIRI.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    },
+    {
+      "form": 1,
+      "height": 0,
+      "weight": 0,
+      "type1": "dragon",
+      "type2": "water",
+      "baseHp": 68,
+      "baseAtk": 50,
+      "baseDfe": 60,
+      "baseSpd": 82,
+      "baseAts": 120,
+      "baseDfs": 95,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 2,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 100,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "tatsugiri",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "__undef__",
+        "__undef__",
+        "storm_drain"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "TATSUGIRI_1",
+        "iconShiny": "TATSUGIRI_1",
+        "front": "TATSUGIRI_1",
+        "frontShiny": "TATSUGIRI_1",
+        "back": "TATSUGIRI_1",
+        "backShiny": "TATSUGIRI_1",
+        "footprint": "TATSUGIRI",
+        "character": "TATSUGIRI_1",
+        "characterShiny": "TATSUGIRI_1",
+        "cry": "TATSUGIRI_1.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    },
+    {
+      "form": 2,
+      "height": 0,
+      "weight": 0,
+      "type1": "dragon",
+      "type2": "water",
+      "baseHp": 68,
+      "baseAtk": 50,
+      "baseDfe": 60,
+      "baseSpd": 82,
+      "baseAts": 120,
+      "baseDfs": 95,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 2,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 100,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "tatsugiri",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "__undef__",
+        "__undef__",
+        "storm_drain"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "TATSUGIRI_2",
+        "iconShiny": "TATSUGIRI_2",
+        "front": "TATSUGIRI_2",
+        "frontShiny": "TATSUGIRI_2",
+        "back": "TATSUGIRI_2",
+        "backShiny": "TATSUGIRI_2",
+        "footprint": "TATSUGIRI",
+        "character": "TATSUGIRI_2",
+        "characterShiny": "TATSUGIRI_2",
+        "cry": "TATSUGIRI_2.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "klass": "Specie",
+  "id": 905,
+  "dbSymbol": "oyacata",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "water",
+      "type2": "__undef__",
+      "baseHp": 150,
+      "baseAtk": 100,
+      "baseDfe": 115,
+      "baseSpd": 35,
+      "baseAts": 65,
+      "baseDfs": 65,
+      "evHp": 3,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 25,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "oyacata",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "unaware",
+        "oblivious",
+        "drizzle"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "DONDOZO",
+        "iconShiny": "DONDOZO",
+        "front": "DONDOZO",
+        "frontShiny": "DONDOZO",
+        "back": "DONDOZO",
+        "backShiny": "DONDOZO",
+        "footprint": "DONDOZO",
+        "character": "DONDOZO",
+        "characterShiny": "DONDOZO",
+        "cry": "DONDOZO.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
+}

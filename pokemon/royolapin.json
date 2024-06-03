@@ -1,0 +1,174 @@
+{
+  "klass": "Specie",
+  "id": 974,
+  "dbSymbol": "royolapin",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "normal",
+      "type2": "fire",
+      "baseHp": 111,
+      "baseAtk": 50,
+      "baseDfe": 90,
+      "baseSpd": 64,
+      "baseAts": 90,
+      "baseDfs": 105,
+      "evHp": 2,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 1,
+      "evolutions": [],
+      "experienceType": 3,
+      "baseExperience": 230,
+      "baseLoyalty": 70,
+      "catchRate": 45,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "royolapin",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "esprit_ardent",
+        "bond_rapide",
+        "huge_power"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "roi i",
+        "iconShiny": "",
+        "front": "roi",
+        "frontShiny": "",
+        "back": "roi b",
+        "backShiny": "",
+        "footprint": "",
+        "character": "roi c",
+        "characterShiny": "",
+        "cry": "roi.mp3",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "pound",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "charm",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "head_smash",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "splash",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "joyeuse_claque",
+          "level": 5
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "defense_curl",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rollout",
+          "level": 10
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "encore",
+          "level": 12
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fire_spin",
+          "level": 14
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "double_slap",
+          "level": 16
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "soft_boiled",
+          "level": 20
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "flame_wheel",
+          "level": 22
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "egg_bomb",
+          "level": 24
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bounce",
+          "level": 29
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fire_punch",
+          "level": 32
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "play_rough",
+          "level": 37
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "superpower",
+          "level": 43
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "double_edge",
+          "level": 50
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "heat_crash",
+          "level": 58
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "overheat",
+          "level": 65
+        },
+        {
+          "klass": "EvolutionLearnableMove",
+          "move": "calin_chaleureux_"
+        }
+      ]
+    }
+  ]
+}

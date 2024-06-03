@@ -1,0 +1,141 @@
+{
+  "klass": "Specie",
+  "id": 796,
+  "dbSymbol": "xurkitree",
+  "forms": [
+    {
+      "form": 0,
+      "height": 3.8,
+      "weight": 100,
+      "type1": "electric",
+      "type2": "son",
+      "baseHp": 80,
+      "baseAtk": 65,
+      "baseDfe": 55,
+      "baseSpd": 90,
+      "baseAts": 200,
+      "baseDfs": 55,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 3,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 257,
+      "baseLoyalty": 1,
+      "catchRate": 30,
+      "femaleRate": -1,
+      "breedGroups": [
+        15,
+        15
+      ],
+      "hatchSteps": 30720,
+      "babyDbSymbol": "xurkitree",
+      "babyForm": 0,
+      "itemHeld": [],
+      "abilities": [
+        "hustle",
+        "hustle",
+        "hustle"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "796",
+        "iconShiny": "",
+        "front": "796",
+        "frontShiny": "796",
+        "back": "796b",
+        "backShiny": "796",
+        "footprint": "",
+        "character": "",
+        "characterShiny": "",
+        "cry": "",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "thunder_shock",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "wrap",
+          "level": 2
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "charge",
+          "level": 5
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "thunder_wave",
+          "level": 10
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "echoed_voice",
+          "level": 15
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "spark",
+          "level": 20
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "shock_wave",
+          "level": 25
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "perish_song",
+          "level": 30
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "parabolic_charge",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "eerie_impulse",
+          "level": 40
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "discharge",
+          "level": 45
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "boomburst",
+          "level": 50
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "thunderbolt",
+          "level": 55
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "electric_terrain",
+          "level": 60
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "disonance",
+          "level": 65
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "zap_cannon",
+          "level": 70
+        }
+      ]
+    }
+  ]
+}

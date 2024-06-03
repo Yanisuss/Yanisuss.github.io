@@ -1,0 +1,144 @@
+{
+  "klass": "Specie",
+  "id": 955,
+  "dbSymbol": "farfurex",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "fighting",
+      "type2": "poison",
+      "baseHp": 80,
+      "baseAtk": 130,
+      "baseDfe": 60,
+      "baseSpd": 120,
+      "baseAts": 40,
+      "baseDfs": 80,
+      "evHp": 0,
+      "evAtk": 3,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 3,
+      "baseExperience": 102,
+      "baseLoyalty": 70,
+      "catchRate": 20,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "farfurex",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "pressure",
+        "unburden",
+        "poison_touch"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "SNEASLER",
+        "iconShiny": "",
+        "front": "SNEASLER",
+        "frontShiny": "SNEASLER",
+        "back": "SNEASLER",
+        "backShiny": "SNEASLER",
+        "footprint": "",
+        "character": "SNEASLER",
+        "characterShiny": "",
+        "cry": "SNEASLER.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "leer",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "scratch",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fling",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rock_smash",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "taunt",
+          "level": 6
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "quick_attack",
+          "level": 12
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "metal_claw",
+          "level": 18
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "poison_jab",
+          "level": 24
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "brick_break",
+          "level": 30
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "hone_claws",
+          "level": 36
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "slash",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "agility",
+          "level": 48
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "screech",
+          "level": 54
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "close_combat",
+          "level": 60
+        },
+        {
+          "klass": "EvolutionLearnableMove",
+          "move": "griffes_funestes"
+        }
+      ]
+    }
+  ]
+}

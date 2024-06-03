@@ -1,0 +1,145 @@
+{
+  "klass": "Specie",
+  "id": 831,
+  "dbSymbol": "hottedefer",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.6,
+      "weight": 11,
+      "type1": "ice",
+      "type2": "water",
+      "baseHp": 56,
+      "baseAtk": 80,
+      "baseDfe": 114,
+      "baseSpd": 136,
+      "baseAts": 124,
+      "baseDfs": 60,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 3,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 285,
+      "baseLoyalty": 70,
+      "catchRate": 50,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "delibird",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "contest_costume",
+          "chance": 5
+        }
+      ],
+      "abilities": [
+        "charge_quantique",
+        "charge_quantique",
+        "charge_quantique"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "IRONBUNDLE",
+        "iconShiny": "IRONBUNDLE",
+        "front": "hotte fer",
+        "frontShiny": "IRONBUNDLE",
+        "back": "hotte fer back",
+        "backShiny": "hotte fer back",
+        "footprint": "IRONBUNDLE",
+        "character": "IRONBUNDLE",
+        "characterShiny": "IRONBUNDLE",
+        "cry": "831cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "electric_terrain",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "present",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "powder_snow",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "whirlpool",
+          "level": 14
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "take_down",
+          "level": 21
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "drill_peck",
+          "level": 28
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "helping_hand",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "freeze_dry",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "splash",
+          "level": 49
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "ice_beam",
+          "level": 56
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "agility",
+          "level": 63
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "hail",
+          "level": 70
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "hydro_pump",
+          "level": 77
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "aurora_veil",
+          "level": 84
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "blizzard",
+          "level": 91
+        }
+      ]
+    }
+  ]
+}

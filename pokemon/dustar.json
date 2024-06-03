@@ -1,0 +1,101 @@
+{
+  "klass": "Specie",
+  "id": 969,
+  "dbSymbol": "dustar",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "vide",
+      "type2": "rock",
+      "baseHp": 40,
+      "baseAtk": 30,
+      "baseDfe": 70,
+      "baseSpd": 35,
+      "baseAts": 90,
+      "baseDfs": 55,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 1,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "clustar",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 25
+            }
+          ]
+        }
+      ],
+      "experienceType": 1,
+      "baseExperience": 65,
+      "baseLoyalty": 70,
+      "catchRate": 90,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "dustar",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "stardust",
+          "chance": 20
+        },
+        {
+          "dbSymbol": "comet_shard",
+          "chance": 1
+        }
+      ],
+      "abilities": [
+        "paraobscur",
+        "paraobscur",
+        "levitate"
+      ],
+      "frontOffsetY": 0,
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "meteor_beam",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "etoile_filante",
+          "level": 2
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "pluie_meteore",
+          "level": 3
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dark_pulse",
+          "level": 4
+        }
+      ],
+      "resources": {
+        "icon": "star i",
+        "iconShiny": "",
+        "front": "star",
+        "frontShiny": "",
+        "back": "star b",
+        "backShiny": "",
+        "footprint": "",
+        "character": "star c2",
+        "characterShiny": "",
+        "cry": "star2.mp3",
+        "hasFemale": false
+      }
+    }
+  ]
+}

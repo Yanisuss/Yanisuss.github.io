@@ -1,0 +1,69 @@
+{
+  "klass": "Specie",
+  "id": 971,
+  "dbSymbol": "astervoid",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "vide",
+      "type2": "rock",
+      "baseHp": 80,
+      "baseAtk": 40,
+      "baseDfe": 96,
+      "baseSpd": 60,
+      "baseAts": 135,
+      "baseDfs": 89,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 3,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 1,
+      "baseExperience": 219,
+      "baseLoyalty": 70,
+      "catchRate": 45,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "astervoid",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "stardust",
+          "chance": 20
+        },
+        {
+          "dbSymbol": "comet_shard",
+          "chance": 1
+        }
+      ],
+      "abilities": [
+        "paraobscur",
+        "paraobscur",
+        "levitate"
+      ],
+      "frontOffsetY": 0,
+      "moveSet": [],
+      "resources": {
+        "icon": "star3",
+        "iconShiny": "",
+        "front": "starf3",
+        "frontShiny": "",
+        "back": "starb3",
+        "backShiny": "",
+        "footprint": "",
+        "character": "starc3",
+        "characterShiny": "",
+        "cry": "star3.mp3",
+        "hasFemale": false
+      }
+    }
+  ]
+}

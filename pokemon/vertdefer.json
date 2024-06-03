@@ -1,0 +1,165 @@
+{
+  "klass": "Specie",
+  "id": 828,
+  "dbSymbol": "vertdefer",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.5,
+      "weight": 125,
+      "type1": "grass",
+      "type2": "psychic",
+      "baseHp": 90,
+      "baseAtk": 130,
+      "baseDfe": 88,
+      "baseSpd": 104,
+      "baseAts": 70,
+      "baseDfs": 108,
+      "evHp": 0,
+      "evAtk": 3,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 295,
+      "baseLoyalty": 70,
+      "catchRate": 5,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "vertdefer",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "contest_costume",
+          "chance": 50
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "charge_quantique",
+        "charge_quantique",
+        "charge_quantique"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "IRONLEAVES",
+        "iconShiny": "IRONLEAVES",
+        "front": "ver de fer",
+        "frontShiny": "IRONLEAVES",
+        "back": "ver-de-fer back",
+        "backShiny": "IRONLEAVES",
+        "footprint": "IRONLEAVES",
+        "character": "IRONLEAVES",
+        "characterShiny": "IRONLEAVES",
+        "cry": "828cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "electric_terrain",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "quash",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "leer",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "quick_attack",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "helping_hand",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "work_up",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "magical_leaf",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "retaliate",
+          "level": 14
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "quick_guard",
+          "level": 21
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "night_slash",
+          "level": 28
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "swords_dance",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sacred_sword",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "leaf_blade",
+          "level": 49
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "lame_psychique",
+          "level": 56
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "close_combat",
+          "level": 63
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "imprison",
+          "level": 70
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "megahorn",
+          "level": 77
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "ally_switch",
+          "level": 84
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "solar_blade",
+          "level": 91
+        }
+      ]
+    }
+  ]
+}

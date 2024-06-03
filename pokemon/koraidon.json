@@ -1,0 +1,150 @@
+{
+  "klass": "Specie",
+  "id": 829,
+  "dbSymbol": "koraidon",
+  "forms": [
+    {
+      "form": 0,
+      "height": 2.5,
+      "weight": 303,
+      "type1": "fighting",
+      "type2": "dragon",
+      "baseHp": 100,
+      "baseAtk": 135,
+      "baseDfe": 115,
+      "baseSpd": 135,
+      "baseAts": 85,
+      "baseDfs": 100,
+      "evHp": 0,
+      "evAtk": 3,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 335,
+      "baseLoyalty": 70,
+      "catchRate": 3,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "koraidon",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "orichalcum_pulse",
+        "orichalcum_pulse",
+        "orichalcum_pulse"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "KORAIDON",
+        "iconShiny": "KORAIDON",
+        "front": "koraidon front",
+        "frontShiny": "KORAIDON",
+        "back": "koraidon",
+        "backShiny": "KORAIDON",
+        "footprint": "KORAIDON",
+        "character": "KORAIDON",
+        "characterShiny": "KORAIDON",
+        "cry": "829cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sunny_day",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "abattage",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rock_smash",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "ancient_power",
+          "level": 14
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "drain_punch",
+          "level": 21
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "brick_break",
+          "level": 28
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "agility",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dragon_claw",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "flamethrower",
+          "level": 49
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "nitro_crash",
+          "level": 56
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "screech",
+          "level": 63
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "counter",
+          "level": 70
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "outrage",
+          "level": 77
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "close_combat",
+          "level": 84
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "flare_blitz",
+          "level": 91
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "giga_impact",
+          "level": 98
+        }
+      ]
+    }
+  ]
+}

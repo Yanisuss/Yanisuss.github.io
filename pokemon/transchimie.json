@@ -1,0 +1,69 @@
+{
+  "klass": "Specie",
+  "id": 931,
+  "dbSymbol": "transchimie",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "fire",
+      "type2": "water",
+      "baseHp": 98,
+      "baseAtk": 35,
+      "baseDfe": 57,
+      "baseSpd": 83,
+      "baseAts": 97,
+      "baseDfs": 110,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 2,
+      "evolutions": [],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 45,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "transchimie",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "analytic",
+        "natural_cure",
+        "protean"
+      ],
+      "frontOffsetY": 0,
+      "moveSet": [],
+      "resources": {
+        "icon": "",
+        "iconShiny": "",
+        "front": "transchimie",
+        "frontShiny": "",
+        "back": "transchimie bt",
+        "backShiny": "",
+        "footprint": "",
+        "character": "",
+        "characterShiny": "",
+        "cry": "",
+        "hasFemale": false
+      }
+    }
+  ]
+}

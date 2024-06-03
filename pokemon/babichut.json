@@ -1,0 +1,140 @@
+{
+  "klass": "Specie",
+  "id": 861,
+  "dbSymbol": "babichut",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "psychic",
+      "type2": "fairy",
+      "baseHp": 42,
+      "baseAtk": 30,
+      "baseDfe": 45,
+      "baseSpd": 39,
+      "baseAts": 56,
+      "baseDfs": 53,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 1,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "hattrem",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 32
+            }
+          ]
+        }
+      ],
+      "experienceType": 2,
+      "baseExperience": 53,
+      "baseLoyalty": 70,
+      "catchRate": 235,
+      "femaleRate": 100,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "babichut",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "healer",
+        "anticipation",
+        "magic_bounce"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "HATENNA",
+        "iconShiny": "HATENNA",
+        "front": "HATENNA",
+        "frontShiny": "HATENNA",
+        "back": "HATENNA",
+        "backShiny": "HATENNA",
+        "footprint": "",
+        "character": "HATENNA",
+        "characterShiny": "HATENNA",
+        "cry": "HATENNA.ogg",
+        "hasFemale": true,
+        "characterF": "HATENNA",
+        "characterShinyF": "",
+        "iconShinyF": "",
+        "iconF": "HATENNA"
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "play_nice",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "confusion",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fontaine_de_vie",
+          "level": 5
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "disarming_voice",
+          "level": 10
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "aromatic_mist",
+          "level": 15
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "psybeam",
+          "level": 20
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "heal_pulse",
+          "level": 25
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dazzling_gleam",
+          "level": 30
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "calm_mind",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "psychic",
+          "level": 40
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "healing_wish",
+          "level": 45
+        }
+      ]
+    }
+  ]
+}

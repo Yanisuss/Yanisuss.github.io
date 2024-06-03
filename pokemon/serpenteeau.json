@@ -1,0 +1,160 @@
+{
+  "klass": "Specie",
+  "id": 827,
+  "dbSymbol": "serpenteeau",
+  "forms": [
+    {
+      "form": 0,
+      "height": 3.5,
+      "weight": 280,
+      "type1": "water",
+      "type2": "dragon",
+      "baseHp": 99,
+      "baseAtk": 83,
+      "baseDfe": 91,
+      "baseSpd": 109,
+      "baseAts": 125,
+      "baseDfs": 83,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 3,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 295,
+      "baseLoyalty": 70,
+      "catchRate": 5,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "serpenteeau",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "contest_costume",
+          "chance": 50
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "paleosynthese_",
+        "paleosynthese_",
+        "paleosynthese_"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "WALKINGWAKE",
+        "iconShiny": "WALKINGWAKE",
+        "front": "serpente eau",
+        "frontShiny": "WALKINGWAKE",
+        "back": "serpente eau back",
+        "backShiny": "WALKINGWAKE",
+        "footprint": "WALKINGWAKE",
+        "character": "WALKINGWAKE",
+        "characterShiny": "WALKINGWAKE",
+        "cry": "827cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sunny_day",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "hone_claws",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "aqua_jet",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "twister",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "roar",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "leer",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bite",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "water_pulse",
+          "level": 14
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "noble_roar",
+          "level": 21
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dragon_breath",
+          "level": 28
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "abattage",
+          "level": 36
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dragon_rush",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "hydro_steam",
+          "level": 56
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sunny_day",
+          "level": 57
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dragon_pulse",
+          "level": 63
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "outrage",
+          "level": 70
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "flamethrower",
+          "level": 77
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "hydro_pump",
+          "level": 84
+        }
+      ]
+    }
+  ]
+}

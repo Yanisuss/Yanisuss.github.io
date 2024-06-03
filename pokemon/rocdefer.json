@@ -1,0 +1,69 @@
+{
+  "klass": "Specie",
+  "id": 948,
+  "dbSymbol": "rocdefer",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "rock",
+      "type2": "psychic",
+      "baseHp": 90,
+      "baseAtk": 120,
+      "baseDfe": 80,
+      "baseSpd": 124,
+      "baseAts": 68,
+      "baseDfs": 108,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 3,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 10,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "rocdefer",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "contest_costume",
+          "chance": 50
+        }
+      ],
+      "abilities": [
+        "charge_quantique",
+        "charge_quantique",
+        "charge_quantique"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "roc",
+        "iconShiny": "",
+        "front": "ironboulder-removebg-preview",
+        "frontShiny": "ironboulder-removebg-preview",
+        "back": "iron bundle b",
+        "backShiny": "iron bundle b",
+        "footprint": "",
+        "character": "iron_boulder_overworld_sprite_by_darkusshadow_dgrf1kb",
+        "characterShiny": "iron_boulder_overworld_sprite_by_darkusshadow_dgrf1kb",
+        "cry": "Cri_1022_EV.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "klass": "Specie",
+  "id": 956,
+  "dbSymbol": "tarountula",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "bug",
+      "type2": "__undef__",
+      "baseHp": 35,
+      "baseAtk": 41,
+      "baseDfe": 45,
+      "baseSpd": 20,
+      "baseAts": 29,
+      "baseDfs": 40,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 1,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "spidops",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 15
+            }
+          ]
+        }
+      ],
+      "experienceType": 4,
+      "baseExperience": 42,
+      "baseLoyalty": 70,
+      "catchRate": 255,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "tarountula",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "insomnia",
+        "insomnia",
+        "stakeout"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "TAROUNTULA",
+        "iconShiny": "",
+        "front": "TAROUNTULA",
+        "frontShiny": "TAROUNTULA",
+        "back": "TAROUNTULA",
+        "backShiny": "TAROUNTULA",
+        "footprint": "",
+        "character": "TAROUNTULA",
+        "characterShiny": "",
+        "cry": "TAROUNTULA.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "string_shot",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "tackle",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "struggle_bug",
+          "level": 5
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "assurance",
+          "level": 8
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "feint",
+          "level": 11
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bug_bite",
+          "level": 14
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "block",
+          "level": 18
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "counter",
+          "level": 22
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "headbutt",
+          "level": 25
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sticky_web",
+          "level": 29
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "gastro_acid",
+          "level": 33
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "circle_throw",
+          "level": 36
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "throat_chop",
+          "level": 40
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "ravage_rampant",
+          "level": 44
+        }
+      ]
+    }
+  ]
+}

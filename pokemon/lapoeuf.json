@@ -1,0 +1,141 @@
+{
+  "klass": "Specie",
+  "id": 972,
+  "dbSymbol": "lapoeuf",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "normal",
+      "type2": "__undef__",
+      "baseHp": 72,
+      "baseAtk": 30,
+      "baseDfe": 50,
+      "baseSpd": 72,
+      "baseAts": 40,
+      "baseDfs": 54,
+      "evHp": 1,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "exceluf",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLoyalty",
+              "value": 220
+            }
+          ]
+        }
+      ],
+      "experienceType": 3,
+      "baseExperience": 64,
+      "baseLoyalty": 70,
+      "catchRate": 255,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "lapoeuf",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "lucky_egg",
+          "chance": 5
+        }
+      ],
+      "abilities": [
+        "quick_feet",
+        "bond_rapide",
+        "huge_power"
+      ],
+      "frontOffsetY": 0,
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "pound",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "charm",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "joyeuse_claque",
+          "level": 5
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "defense_curl",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rollout",
+          "level": 10
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "encore",
+          "level": 12
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "double_slap",
+          "level": 16
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "refresh",
+          "level": 20
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "egg_bomb",
+          "level": 24
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bounce",
+          "level": 29
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "play_rough",
+          "level": 37
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "double_edge",
+          "level": 43
+        }
+      ],
+      "resources": {
+        "icon": "egg i",
+        "iconShiny": "",
+        "front": "egg f",
+        "frontShiny": "",
+        "back": "egg b",
+        "backShiny": "",
+        "footprint": "",
+        "character": "egg c",
+        "characterShiny": "",
+        "cry": "egg.mp3",
+        "hasFemale": false
+      }
+    }
+  ]
+}

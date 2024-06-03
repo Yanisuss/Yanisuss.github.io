@@ -1,0 +1,160 @@
+{
+  "klass": "Specie",
+  "id": 837,
+  "dbSymbol": "irefoudre",
+  "forms": [
+    {
+      "form": 0,
+      "height": 5.2,
+      "weight": 480,
+      "type1": "electric",
+      "type2": "dragon",
+      "baseHp": 125,
+      "baseAtk": 73,
+      "baseDfe": 91,
+      "baseSpd": 75,
+      "baseAts": 137,
+      "baseDfs": 89,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 3,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 295,
+      "baseLoyalty": 70,
+      "catchRate": 10,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "irefoudre",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "contest_costume",
+          "chance": 50
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "paleosynthese_",
+        "paleosynthese_",
+        "paleosynthese_"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "irefoudre_icon-removebg-preview",
+        "iconShiny": "irefoudre_icon-removebg-preview",
+        "front": "ire-foudre",
+        "frontShiny": "ire-foudre",
+        "back": "irefoudre-removebg-preview",
+        "backShiny": "irefoudre-removebg-preview",
+        "footprint": "",
+        "character": "raging_bolt_overworld_sprite_by_darkusshadow_dg9odr5",
+        "characterShiny": "raging_bolt_overworld_sprite_by_darkusshadow_dg9odr5",
+        "cry": "837cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "ancient_power",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "shock_wave",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sunny_day",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "twister",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "stomp",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "charge",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dragon_breath",
+          "level": 14
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "electric_terrain",
+          "level": 21
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "discharge",
+          "level": 28
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dragon_tail",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "calm_mind",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "vif_eclair",
+          "level": 49
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dragon_hammer",
+          "level": 56
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "montetension",
+          "level": 63
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dragon_pulse",
+          "level": 70
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "zap_cannon",
+          "level": 77
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "big_splash",
+          "level": 84
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "thunder",
+          "level": 91
+        }
+      ]
+    }
+  ]
+}

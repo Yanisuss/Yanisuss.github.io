@@ -1,0 +1,160 @@
+{
+  "klass": "Specie",
+  "id": 851,
+  "dbSymbol": "dinglu",
+  "forms": [
+    {
+      "form": 0,
+      "height": 2.7,
+      "weight": 699.7,
+      "type1": "dark",
+      "type2": "ground",
+      "baseHp": 155,
+      "baseAtk": 110,
+      "baseDfe": 125,
+      "baseSpd": 45,
+      "baseAts": 55,
+      "baseDfs": 80,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 3,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 285,
+      "baseLoyalty": 70,
+      "catchRate": 6,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "dinglu",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "vessel_of_ruin",
+        "vessel_of_ruin",
+        "vessel_of_ruin"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "TINGLU",
+        "iconShiny": "",
+        "front": "TINGLU",
+        "frontShiny": "",
+        "back": "1003",
+        "backShiny": "",
+        "footprint": "",
+        "character": "TINGLU",
+        "characterShiny": "",
+        "cry": "TINGLU.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "spite",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sand_tomb",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "mean_look",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "spikes",
+          "level": 5
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "payback",
+          "level": 10
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "stomp",
+          "level": 15
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bulldoze",
+          "level": 20
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "whirlwind",
+          "level": 25
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "taunt",
+          "level": 30
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "thrash",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dark_pulse",
+          "level": 40
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "stomping_tantrum",
+          "level": 45
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "cataclysme",
+          "level": 50
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "throat_chop",
+          "level": 55
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rock_slide",
+          "level": 60
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "memento",
+          "level": 65
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "earthquake",
+          "level": 70
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fissure",
+          "level": 75
+        }
+      ]
+    }
+  ]
+}

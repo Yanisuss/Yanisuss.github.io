@@ -1,0 +1,85 @@
+{
+  "klass": "Specie",
+  "id": 846,
+  "dbSymbol": "bowser",
+  "forms": [
+    {
+      "form": 0,
+      "height": 3,
+      "weight": 200,
+      "type1": "fire",
+      "type2": "dragon",
+      "baseHp": 95,
+      "baseAtk": 115,
+      "baseDfe": 145,
+      "baseSpd": 55,
+      "baseAts": 100,
+      "baseDfs": 90,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 10,
+      "femaleRate": 0,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "bowser",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "rough_skin",
+        "rough_skin",
+        "marvel_scale"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "bowser i",
+        "iconShiny": "",
+        "front": "076",
+        "frontShiny": "",
+        "back": "076 b",
+        "backShiny": "",
+        "footprint": "",
+        "character": "",
+        "characterShiny": "",
+        "cry": "846cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "attack_order",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "defend_order",
+          "level": 2
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "heal_order",
+          "level": 3
+        }
+      ]
+    }
+  ]
+}

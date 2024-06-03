@@ -1,0 +1,108 @@
+{
+  "klass": "Specie",
+  "id": 806,
+  "dbSymbol": "sans",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1,
+      "weight": 10,
+      "type1": "normal",
+      "type2": "__undef__",
+      "baseHp": 1,
+      "baseAtk": 200,
+      "baseDfe": 5,
+      "baseSpd": 150,
+      "baseAts": 255,
+      "baseDfs": 5,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 1,
+      "evAts": 2,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 255,
+      "baseLoyalty": 0,
+      "catchRate": 45,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "sans",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "wonder_guard",
+        "wonder_guard",
+        "wonder_guard"
+      ],
+      "frontOffsetY": -2,
+      "resources": {
+        "icon": "sans-icon-23",
+        "iconShiny": "sans-icon-23",
+        "front": "SANS",
+        "frontShiny": "SANS",
+        "back": "SANS",
+        "backShiny": "SANS",
+        "footprint": "",
+        "character": "SANS",
+        "characterShiny": "SANS",
+        "cry": "806cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sans_blaster",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bone_rush",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bone_club",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "shadow_bone",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bonemerang",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "gravity",
+          "level": 1
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "rest"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "cut"
+        }
+      ]
+    }
+  ]
+}

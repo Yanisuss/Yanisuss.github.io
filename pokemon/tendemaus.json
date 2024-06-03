@@ -1,0 +1,104 @@
+{
+  "klass": "Specie",
+  "id": 886,
+  "dbSymbol": "tendemaus",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "normal",
+      "type2": "__undef__",
+      "baseHp": 50,
+      "baseAtk": 50,
+      "baseDfe": 45,
+      "baseSpd": 75,
+      "baseAts": 40,
+      "baseDfs": 45,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 1,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "maushold",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 25
+            },
+            {
+              "type": "func",
+              "value": "elv_99percent"
+            }
+          ]
+        },
+        {
+          "dbSymbol": "famignol",
+          "form": 1,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 25
+            },
+            {
+              "type": "func",
+              "value": "elv_1percent"
+            }
+          ]
+        }
+      ],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 150,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "tendemaus",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "run_away",
+        "pickup",
+        "own_tempo"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "TANDEMAUS",
+        "iconShiny": "TANDEMAUS",
+        "front": "TANDEMAUS",
+        "frontShiny": "TANDEMAUS",
+        "back": "TANDEMAUS",
+        "backShiny": "TANDEMAUS",
+        "footprint": "TANDEMAUS",
+        "character": "TANDEMAUS",
+        "characterShiny": "TANDEMAUS",
+        "cry": "TANDEMAUS.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "proliferation",
+          "level": 1
+        }
+      ]
+    }
+  ]
+}

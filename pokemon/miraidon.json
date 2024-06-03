@@ -1,0 +1,150 @@
+{
+  "klass": "Specie",
+  "id": 830,
+  "dbSymbol": "miraidon",
+  "forms": [
+    {
+      "form": 0,
+      "height": 3.5,
+      "weight": 240,
+      "type1": "electric",
+      "type2": "dragon",
+      "baseHp": 100,
+      "baseAtk": 85,
+      "baseDfe": 100,
+      "baseSpd": 135,
+      "baseAts": 135,
+      "baseDfs": 115,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 3,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 335,
+      "baseLoyalty": 70,
+      "catchRate": 3,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "miraidon",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "hadron_engine",
+        "hadron_engine",
+        "hadron_engine"
+      ],
+      "frontOffsetY": -20,
+      "resources": {
+        "icon": "MIRAIDON",
+        "iconShiny": "MIRAIDON",
+        "front": "miraidon",
+        "frontShiny": "MIRAIDON",
+        "back": "miraidon back",
+        "backShiny": "MIRAIDON",
+        "footprint": "MIRAIDON",
+        "character": "MIRAIDON",
+        "characterShiny": "MIRAIDON",
+        "cry": "830cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "electric_terrain",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "thunder_shock",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dragon_breath",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "shock_wave",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "charge",
+          "level": 14
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "parabolic_charge",
+          "level": 21
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "discharge",
+          "level": 28
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dragon_pulse",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "agility",
+          "level": 43
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "turbo_volt",
+          "level": 56
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "metal_sound",
+          "level": 63
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "mirror_coat",
+          "level": 70
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "outrage",
+          "level": 77
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "thunder",
+          "level": 84
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "overheat",
+          "level": 91
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "hyper_beam",
+          "level": 98
+        }
+      ]
+    }
+  ]
+}

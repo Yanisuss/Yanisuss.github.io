@@ -1,0 +1,155 @@
+{
+  "klass": "Specie",
+  "id": 819,
+  "dbSymbol": "hurlequeue",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.2,
+      "weight": 8,
+      "type1": "son",
+      "type2": "psychic",
+      "baseHp": 115,
+      "baseAtk": 65,
+      "baseDfe": 99,
+      "baseSpd": 111,
+      "baseAts": 65,
+      "baseDfs": 115,
+      "evHp": 3,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 285,
+      "baseLoyalty": 70,
+      "catchRate": 50,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "hurlequeue",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "contest_costume",
+          "chance": 5
+        }
+      ],
+      "abilities": [
+        "paleosynthese_",
+        "paleosynthese_",
+        "paleosynthese_"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "SCREAMTAIL",
+        "iconShiny": "SCREAMTAIL",
+        "front": "hurle queue",
+        "frontShiny": "SCREAMTAIL",
+        "back": "hurle queue back",
+        "backShiny": "SCREAMTAIL",
+        "footprint": "SCREAMTAIL",
+        "character": "SCREAMTAIL",
+        "characterShiny": "SCREAMTAIL",
+        "cry": "819cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sunny_day",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "pound",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sing",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "disable",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "howl",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "noble_roar",
+          "level": 14
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bite",
+          "level": 21
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "body_slam",
+          "level": 28
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rest",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "play_rough",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "hyper_voice",
+          "level": 49
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "psychic_fangs",
+          "level": 56
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "crunch",
+          "level": 63
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "wish",
+          "level": 70
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "gyro_ball",
+          "level": 77
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "perish_song",
+          "level": 84
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "boomburst",
+          "level": 91
+        }
+      ]
+    }
+  ]
+}

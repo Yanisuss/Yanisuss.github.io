@@ -1,0 +1,69 @@
+{
+  "klass": "Specie",
+  "id": 887,
+  "dbSymbol": "maushold",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "normal",
+      "type2": "__undef__",
+      "baseHp": 74,
+      "baseAtk": 75,
+      "baseDfe": 70,
+      "baseSpd": 111,
+      "baseAts": 65,
+      "baseDfs": 75,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 2,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 75,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "maushold",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "friend_guard",
+        "cheek_pouch",
+        "technician"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "MAUSHOLD_1",
+        "iconShiny": "MAUSHOLD_1",
+        "front": "maus 1",
+        "frontShiny": "MAUSHOLD_1",
+        "back": "MAUSHOLD_1",
+        "backShiny": "MAUSHOLD_1",
+        "footprint": "MAUSHOLD_1",
+        "character": "MAUSHOLD",
+        "characterShiny": "MAUSHOLD",
+        "cry": "MAUSHOLD_1.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
+}

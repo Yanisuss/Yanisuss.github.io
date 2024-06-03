@@ -1,0 +1,180 @@
+{
+  "klass": "Specie",
+  "id": 821,
+  "dbSymbol": "hurlelune",
+  "forms": [
+    {
+      "form": 0,
+      "height": 2,
+      "weight": 380,
+      "type1": "dragon",
+      "type2": "dark",
+      "baseHp": 105,
+      "baseAtk": 139,
+      "baseDfe": 71,
+      "baseSpd": 119,
+      "baseAts": 55,
+      "baseDfs": 101,
+      "evHp": 0,
+      "evAtk": 3,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 295,
+      "baseLoyalty": 70,
+      "catchRate": 10,
+      "femaleRate": -1,
+      "breedGroups": [
+        14,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "bagon",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "contest_costume",
+          "chance": 5
+        }
+      ],
+      "abilities": [
+        "paleosynthese_",
+        "paleosynthese_",
+        "paleosynthese_"
+      ],
+      "frontOffsetY": -2,
+      "resources": {
+        "icon": "ROARINGMOON",
+        "iconShiny": "ROARINGMOON",
+        "front": "rugit lune",
+        "frontShiny": "ROARINGMOON",
+        "back": "ROARINGMOON",
+        "backShiny": "ROARINGMOON",
+        "footprint": "ROARINGMOON",
+        "character": "ROARINGMOON",
+        "characterShiny": "ROARINGMOON",
+        "cry": "821cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sunny_day",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "crunch",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dragon_tail",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rafale_ecailles",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dragon_breath",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "leer",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bite",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "focus_energy",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "incinerate",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "headbutt",
+          "level": 14
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "scary_face",
+          "level": 21
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dragon_claw",
+          "level": 28
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "zen_headbutt",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "flamethrower",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "night_slash",
+          "level": 49
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dragon_dance",
+          "level": 56
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dragon_rush",
+          "level": 63
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fly",
+          "level": 70
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "throat_chop",
+          "level": 77
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "roost",
+          "level": 84
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "double_edge",
+          "level": 91
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rafale_ecailles",
+          "level": 92
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "klass": "Specie",
+  "id": 964,
+  "dbSymbol": "desperasca",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "grass",
+      "type2": "justice",
+      "baseHp": 80,
+      "baseAtk": 110,
+      "baseDfe": 70,
+      "baseSpd": 130,
+      "baseAts": 50,
+      "baseDfs": 60,
+      "evHp": 0,
+      "evAtk": 2,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 4,
+      "baseExperience": 167,
+      "baseLoyalty": 35,
+      "catchRate": 50,
+      "femaleRate": 100,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "desperasca",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "defiant",
+        "sand_force",
+        "steadfast"
+      ],
+      "frontOffsetY": 0,
+      "moveSet": [],
+      "resources": {
+        "icon": "",
+        "iconShiny": "",
+        "front": "",
+        "frontShiny": "",
+        "back": "",
+        "backShiny": "",
+        "footprint": "",
+        "character": "",
+        "characterShiny": "",
+        "cry": "",
+        "hasFemale": true,
+        "frontF": "desp",
+        "backF": "desp b",
+        "iconF": "desp i",
+        "characterF": "desp c"
+      }
+    }
+  ]
+}

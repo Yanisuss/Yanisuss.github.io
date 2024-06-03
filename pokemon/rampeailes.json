@@ -1,0 +1,160 @@
+{
+  "klass": "Specie",
+  "id": 822,
+  "dbSymbol": "rampeailes",
+  "forms": [
+    {
+      "form": 0,
+      "height": 3.2,
+      "weight": 92,
+      "type1": "bug",
+      "type2": "fighting",
+      "baseHp": 85,
+      "baseAtk": 135,
+      "baseDfe": 79,
+      "baseSpd": 81,
+      "baseAts": 85,
+      "baseDfs": 105,
+      "evHp": 0,
+      "evAtk": 3,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 285,
+      "baseLoyalty": 70,
+      "catchRate": 30,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "larvesta",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "contest_costume",
+          "chance": 5
+        }
+      ],
+      "abilities": [
+        "paleosynthese_",
+        "paleosynthese_",
+        "paleosynthese_"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "SLITHERWING",
+        "iconShiny": "SLITHERWING",
+        "front": "rampe ailes",
+        "frontShiny": "",
+        "back": "rampe ailes back",
+        "backShiny": "",
+        "footprint": "SLITHERWING",
+        "character": "SLITHERWING",
+        "characterShiny": "SLITHERWING",
+        "cry": "822cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sunny_day",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "gust",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bug_bite",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "ember",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "stun_spore",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "poison_powder",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "flame_charge",
+          "level": 14
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "stomp",
+          "level": 21
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "low_sweep",
+          "level": 28
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "morning_sun",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "lunge",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "superpower",
+          "level": 49
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bulk_up",
+          "level": 56
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "double_volee",
+          "level": 63
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "first_impression",
+          "level": 70
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "whirlwind",
+          "level": 77
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "leech_life",
+          "level": 84
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "thrash",
+          "level": 91
+        }
+      ]
+    }
+  ]
+}

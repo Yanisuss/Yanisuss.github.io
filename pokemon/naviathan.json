@@ -1,0 +1,69 @@
+{
+  "klass": "Specie",
+  "id": 933,
+  "dbSymbol": "naviathan",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "dragon",
+      "type2": "water",
+      "baseHp": 100,
+      "baseAtk": 150,
+      "baseDfe": 110,
+      "baseSpd": 30,
+      "baseAts": 95,
+      "baseDfs": 80,
+      "evHp": 0,
+      "evAtk": 3,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 5,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "naviathan",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "slow_start",
+        "slow_start",
+        "mold_breaker"
+      ],
+      "frontOffsetY": 0,
+      "moveSet": [],
+      "resources": {
+        "icon": "",
+        "iconShiny": "",
+        "front": "Naviathan",
+        "frontShiny": "Naviathan s",
+        "back": "Naviathan bt",
+        "backShiny": "Naviathan sb",
+        "footprint": "",
+        "character": "",
+        "characterShiny": "",
+        "cry": "",
+        "hasFemale": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "klass": "Specie",
+  "id": 862,
+  "dbSymbol": "hattrem",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "psychic",
+      "type2": "fairy",
+      "baseHp": 57,
+      "baseAtk": 40,
+      "baseDfe": 65,
+      "baseSpd": 49,
+      "baseAts": 86,
+      "baseDfs": 73,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 2,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "sorsilence",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 42
+            }
+          ]
+        }
+      ],
+      "experienceType": 2,
+      "baseExperience": 130,
+      "baseLoyalty": 70,
+      "catchRate": 120,
+      "femaleRate": 100,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "hattrem",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "healer",
+        "anticipation",
+        "magic_bounce"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "HATTREM",
+        "iconShiny": "HATTREM",
+        "front": "hattrem",
+        "frontShiny": "HATTREM",
+        "back": "HATTREM",
+        "backShiny": "HATTREM",
+        "footprint": "",
+        "character": "HATTREM",
+        "characterShiny": "HATTREM",
+        "cry": "HATTREM.ogg",
+        "hasFemale": true,
+        "iconF": "HATTREM",
+        "iconShinyF": "",
+        "characterShinyF": "",
+        "characterF": "HATTREM"
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "play_nice",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "confusion",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fontaine_de_vie",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "disarming_voice",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "aromatic_mist",
+          "level": 15
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "psybeam",
+          "level": 20
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "heal_pulse",
+          "level": 25
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dazzling_gleam",
+          "level": 30
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "calm_mind",
+          "level": 37
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "psychic",
+          "level": 44
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "healing_wish",
+          "level": 51
+        },
+        {
+          "klass": "EvolutionLearnableMove",
+          "move": "brutal_swing"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "klass": "Specie",
+  "id": 949,
+  "dbSymbol": "feupercant",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "fire",
+      "type2": "dragon",
+      "baseHp": 105,
+      "baseAtk": 115,
+      "baseDfe": 121,
+      "baseSpd": 91,
+      "baseAts": 65,
+      "baseDfs": 93,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 3,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 10,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "feupercant",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "paleosynthese_",
+        "paleosynthese_",
+        "paleosynthese_"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "feu",
+        "iconShiny": "",
+        "front": "feupercant-removebg-preview",
+        "frontShiny": "feupercant-removebg-preview",
+        "back": "feupercant_b-removebg-preview",
+        "backShiny": "feupercant_b-removebg-preview",
+        "footprint": "",
+        "character": "",
+        "characterShiny": "",
+        "cry": "Cri_1020_EV.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
+}

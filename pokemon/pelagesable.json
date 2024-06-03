@@ -1,0 +1,155 @@
+{
+  "klass": "Specie",
+  "id": 832,
+  "dbSymbol": "pelagesable",
+  "forms": [
+    {
+      "form": 0,
+      "height": 2.3,
+      "weight": 60,
+      "type1": "electric",
+      "type2": "ground",
+      "baseHp": 85,
+      "baseAtk": 81,
+      "baseDfe": 97,
+      "baseSpd": 97,
+      "baseAts": 121,
+      "baseDfs": 85,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 3,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 285,
+      "baseLoyalty": 70,
+      "catchRate": 30,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "magnemite",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "paleosynthese_",
+        "paleosynthese_",
+        "paleosynthese_"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "SANDYSHOCKS",
+        "iconShiny": "SANDYSHOCKS",
+        "front": "pelage sablé",
+        "frontShiny": "SANDYSHOCKS",
+        "back": "pelage sablé back",
+        "backShiny": "SANDYSHOCKS",
+        "footprint": "SANDYSHOCKS",
+        "character": "SANDYSHOCKS",
+        "characterShiny": "SANDYSHOCKS",
+        "cry": "832cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sunny_day",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "supersonic",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "thunder_wave",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "thunder_shock",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "spark",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bulldoze",
+          "level": 14
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "charge_beam",
+          "level": 21
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "tri_attack",
+          "level": 28
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "screech",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "heavy_slam",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "metal_sound",
+          "level": 49
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "discharge",
+          "level": 56
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "earth_power",
+          "level": 63
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "mirror_coat",
+          "level": 70
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "gravity",
+          "level": 77
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "zap_cannon",
+          "level": 84
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "magnetic_flux",
+          "level": 91
+        }
+      ]
+    }
+  ]
+}

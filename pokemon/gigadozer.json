@@ -1,0 +1,149 @@
+{
+  "klass": "Specie",
+  "id": 968,
+  "dbSymbol": "gigadozer",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "bug",
+      "type2": "fighting",
+      "baseHp": 95,
+      "baseAtk": 138,
+      "baseDfe": 105,
+      "baseSpd": 50,
+      "baseAts": 60,
+      "baseDfs": 75,
+      "evHp": 0,
+      "evAtk": 3,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 1,
+      "baseExperience": 227,
+      "baseLoyalty": 70,
+      "catchRate": 45,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "gigadozer",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "battle_armor",
+        "moxie",
+        "anger_point"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "giga i",
+        "iconShiny": "",
+        "front": "giga",
+        "frontShiny": "",
+        "back": "giga b",
+        "backShiny": "",
+        "footprint": "",
+        "character": "giga c",
+        "characterShiny": "",
+        "cry": "giga.mp3",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "saut_scuttant",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "leer",
+          "level": 5
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rock_smash",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fury_attack",
+          "level": 11
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "parasite",
+          "level": 14
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "counter",
+          "level": 18
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "pin_missile",
+          "level": 24
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "submission",
+          "level": 29
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dragon_hammer",
+          "level": 34
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bug_buzz",
+          "level": 40
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "double_edge",
+          "level": 49
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "detect",
+          "level": 56
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "superpower",
+          "level": 62
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "heavy_slam",
+          "level": 70
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "wood_hammer",
+          "level": 74
+        },
+        {
+          "klass": "EvolutionLearnableMove",
+          "move": "hammer_arm"
+        }
+      ]
+    }
+  ]
+}

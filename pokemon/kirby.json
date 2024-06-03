@@ -1,0 +1,75 @@
+{
+  "klass": "Specie",
+  "id": 847,
+  "dbSymbol": "kirby",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.7,
+      "weight": 10,
+      "type1": "fairy",
+      "type2": "__undef__",
+      "baseHp": 100,
+      "baseAtk": 75,
+      "baseDfe": 100,
+      "baseSpd": 100,
+      "baseAts": 125,
+      "baseDfs": 100,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 3,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 10,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "kirby",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "trace",
+        "trace",
+        "trace"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "kirby icon",
+        "iconShiny": "",
+        "front": "Kirby",
+        "frontShiny": "",
+        "back": "",
+        "backShiny": "",
+        "footprint": "",
+        "character": "",
+        "characterShiny": "",
+        "cry": "847cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "absorption",
+          "level": 1
+        }
+      ]
+    }
+  ]
+}

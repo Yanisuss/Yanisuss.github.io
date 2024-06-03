@@ -1,0 +1,165 @@
+{
+  "klass": "Specie",
+  "id": 850,
+  "dbSymbol": "baojian",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.9,
+      "weight": 152.2,
+      "type1": "dark",
+      "type2": "ice",
+      "baseHp": 80,
+      "baseAtk": 120,
+      "baseDfe": 80,
+      "baseSpd": 135,
+      "baseAts": 90,
+      "baseDfs": 65,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 3,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 285,
+      "baseLoyalty": 70,
+      "catchRate": 6,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "baojian",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "sword_of_ruin",
+        "sword_of_ruin",
+        "sword_of_ruin"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "CHIENPAO",
+        "iconShiny": "",
+        "front": "CHIENPAO",
+        "frontShiny": "",
+        "back": "1002",
+        "backShiny": "",
+        "footprint": "",
+        "character": "CHIENPAO",
+        "characterShiny": "",
+        "cry": "850cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "mean_look",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "powder_snow",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "spite",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "icy_wind",
+          "level": 5
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "payback",
+          "level": 10
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "haze",
+          "level": 15
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "mist",
+          "level": 15
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "ice_shard",
+          "level": 20
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "swords_dance",
+          "level": 25
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "snowscape",
+          "level": 30
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "night_slash",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dark_pulse",
+          "level": 40
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "icicle_crash",
+          "level": 45
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "cataclysme",
+          "level": 50
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sucker_punch",
+          "level": 55
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sacred_sword",
+          "level": 60
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "recover",
+          "level": 65
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "throat_chop",
+          "level": 70
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sheer_cold",
+          "level": 75
+        }
+      ]
+    }
+  ]
+}

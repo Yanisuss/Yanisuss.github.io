@@ -1,0 +1,218 @@
+{
+  "klass": "Specie",
+  "id": 959,
+  "dbSymbol": "scolocendre",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "fire",
+      "type2": "bug",
+      "baseHp": 100,
+      "baseAtk": 115,
+      "baseDfe": 65,
+      "baseSpd": 65,
+      "baseAts": 90,
+      "baseDfs": 90,
+      "evHp": 0,
+      "evAtk": 2,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "form": 30,
+          "conditions": [
+            {
+              "type": "gemme",
+              "value": "torterrite"
+            }
+          ]
+        }
+      ],
+      "experienceType": 1,
+      "baseExperience": 184,
+      "baseLoyalty": 70,
+      "catchRate": 75,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "scolocendre",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "flash_fire",
+        "white_smoke",
+        "flame_body"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "CENTISKORCH",
+        "iconShiny": "",
+        "front": "CENTISKORCH",
+        "frontShiny": "CENTISKORCH",
+        "back": "CENTISKORCH",
+        "backShiny": "CENTISKORCH",
+        "footprint": "",
+        "character": "CENTISKORCH",
+        "characterShiny": "",
+        "cry": "CENTISKORCH.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "smokescreen",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "ember",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "inferno",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bite",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "wrap",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "flame_wheel",
+          "level": 15
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bug_bite",
+          "level": 20
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "coil",
+          "level": 25
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "slam",
+          "level": 32
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fire_spin",
+          "level": 39
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "crunch",
+          "level": 46
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fire_lash",
+          "level": 53
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "lunge",
+          "level": 60
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "burn_up",
+          "level": 67
+        }
+      ]
+    },
+    {
+      "form": 30,
+      "height": 0,
+      "weight": 0,
+      "type1": "fire",
+      "type2": "bug",
+      "baseHp": 100,
+      "baseAtk": 125,
+      "baseDfe": 75,
+      "baseSpd": 90,
+      "baseAts": 100,
+      "baseDfs": 90,
+      "evHp": 0,
+      "evAtk": 3,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 1,
+      "baseExperience": 184,
+      "baseLoyalty": 70,
+      "catchRate": 45,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "scolocendre",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "flash_fire",
+        "white_smoke",
+        "flame_body"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "CENTISKORCH_gmax",
+        "iconShiny": "CENTISKORCH_gmax",
+        "front": "CENTISKORCH_gmax",
+        "frontShiny": "CENTISKORCH_gmax",
+        "back": "CENTISKORCH_gmax",
+        "backShiny": "CENTISKORCH_gmax",
+        "footprint": "",
+        "character": "CENTISKORCH",
+        "characterShiny": "CENTISKORCH",
+        "cry": "CENTISKORCH.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "splash",
+          "level": 1
+        }
+      ]
+    }
+  ]
+}

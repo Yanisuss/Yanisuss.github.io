@@ -1,0 +1,69 @@
+{
+  "klass": "Specie",
+  "id": 932,
+  "dbSymbol": "dunsyvern",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "dragon",
+      "type2": "flying",
+      "baseHp": 125,
+      "baseAtk": 100,
+      "baseDfe": 75,
+      "baseSpd": 85,
+      "baseAts": 90,
+      "baseDfs": 80,
+      "evHp": 3,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 20,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "dunsyvern",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "serene_grace",
+        "aerilate",
+        "rattled"
+      ],
+      "frontOffsetY": 0,
+      "moveSet": [],
+      "resources": {
+        "icon": "Dunsyvern i",
+        "iconShiny": "Dunsyvern is",
+        "front": "Dunsparce",
+        "frontShiny": "Dunsyvern s",
+        "back": "Dunsyvern b",
+        "backShiny": "Dunsyvern sb",
+        "footprint": "",
+        "character": "Dunsyvern c",
+        "characterShiny": "Dunsyvern cs",
+        "cry": "DUDUNSPARCE.ogg",
+        "hasFemale": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "klass": "Specie",
+  "id": 891,
+  "dbSymbol": "hachecateur",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "bug",
+      "type2": "rock",
+      "baseHp": 70,
+      "baseAtk": 135,
+      "baseDfe": 95,
+      "baseSpd": 85,
+      "baseAts": 45,
+      "baseDfs": 70,
+      "evHp": 0,
+      "evAtk": 2,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 15,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "hachecateur",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "swarm",
+        "sheer_force",
+        "sharpness"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "KLEAVOR",
+        "iconShiny": "KLEAVOR",
+        "front": "KLEAVOR",
+        "frontShiny": "KLEAVOR b",
+        "back": "hachécateur",
+        "backShiny": "KLEAVOR s",
+        "footprint": "KLEAVOR",
+        "character": "KLEAVOR",
+        "characterShiny": "KLEAVOR",
+        "cry": "KLEAVOR.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
+}

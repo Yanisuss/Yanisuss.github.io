@@ -1,0 +1,165 @@
+{
+  "klass": "Specie",
+  "id": 833,
+  "dbSymbol": "chongjian",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.5,
+      "weight": 74.2,
+      "type1": "dark",
+      "type2": "grass",
+      "baseHp": 85,
+      "baseAtk": 85,
+      "baseDfe": 100,
+      "baseSpd": 70,
+      "baseAts": 95,
+      "baseDfs": 135,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 3,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 285,
+      "baseLoyalty": 70,
+      "catchRate": 6,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "chongjian",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "tablets_of_ruin",
+        "tablets_of_ruin",
+        "tablets_of_ruin"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "WOCHIEN",
+        "iconShiny": "WOCHIEN",
+        "front": "wo chien",
+        "frontShiny": "WOCHIEN",
+        "back": "wo chien back",
+        "backShiny": "WOCHIEN",
+        "footprint": "WOCHIEN",
+        "character": "WOCHIEN",
+        "characterShiny": "WOCHIEN",
+        "cry": "833cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "mean_look",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "spite",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "absorb",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "tickle",
+          "level": 5
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "payback",
+          "level": 10
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "stun_spore",
+          "level": 15
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "poison_powder",
+          "level": 15
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "mega_drain",
+          "level": 20
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "leech_seed",
+          "level": 25
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "growth",
+          "level": 30
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "ingrain",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dark_pulse",
+          "level": 40
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "giga_drain",
+          "level": 45
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "cataclysme",
+          "level": 50
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "foul_play",
+          "level": 55
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "power_whip",
+          "level": 60
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "grassy_terrain",
+          "level": 65
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "knock_off",
+          "level": 70
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "leaf_storm",
+          "level": 75
+        }
+      ]
+    }
+  ]
+}

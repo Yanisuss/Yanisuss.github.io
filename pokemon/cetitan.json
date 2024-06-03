@@ -1,0 +1,69 @@
+{
+  "klass": "Specie",
+  "id": 911,
+  "dbSymbol": "cetitan",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "ice",
+      "type2": "__undef__",
+      "baseHp": 170,
+      "baseAtk": 113,
+      "baseDfe": 65,
+      "baseSpd": 73,
+      "baseAts": 45,
+      "baseDfs": 55,
+      "evHp": 2,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 50,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "cetitan",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "thick_fat",
+        "slush_rush",
+        "sheer_force"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "CETITAN",
+        "iconShiny": "CETITAN",
+        "front": "Grossbaleine",
+        "frontShiny": "CETITAN",
+        "back": "CETITAN",
+        "backShiny": "CETITAN",
+        "footprint": "CETITAN",
+        "character": "CETITAN",
+        "characterShiny": "CETITAN",
+        "cry": "CETITAN.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
+}

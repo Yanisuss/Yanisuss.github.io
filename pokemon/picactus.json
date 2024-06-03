@@ -1,0 +1,98 @@
+{
+  "klass": "Specie",
+  "id": 962,
+  "dbSymbol": "picactus",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0,
+      "weight": 0,
+      "type1": "grass",
+      "type2": "ground",
+      "baseHp": 50,
+      "baseAtk": 75,
+      "baseDfe": 40,
+      "baseSpd": 55,
+      "baseAts": 75,
+      "baseDfs": 40,
+      "evHp": 0,
+      "evAtk": 1,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 1,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "desperogue",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 32
+            },
+            {
+              "type": "gender",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "dbSymbol": "desperasca",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 32
+            },
+            {
+              "type": "gender",
+              "value": 2
+            }
+          ]
+        }
+      ],
+      "experienceType": 4,
+      "baseExperience": 67,
+      "baseLoyalty": 70,
+      "catchRate": 190,
+      "femaleRate": 50,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "picactus",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "sniper",
+        "sand_veil",
+        "stakeout"
+      ],
+      "frontOffsetY": 0,
+      "moveSet": [],
+      "resources": {
+        "icon": "picactus",
+        "iconShiny": "",
+        "front": "picactus f",
+        "frontShiny": "",
+        "back": "picactus b",
+        "backShiny": "",
+        "footprint": "",
+        "character": "picactus c",
+        "characterShiny": "",
+        "cry": "",
+        "hasFemale": false
+      }
+    }
+  ]
+}

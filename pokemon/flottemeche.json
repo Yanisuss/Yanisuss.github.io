@@ -1,0 +1,155 @@
+{
+  "klass": "Specie",
+  "id": 824,
+  "dbSymbol": "flottemeche",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.4,
+      "weight": 4,
+      "type1": "ghost",
+      "type2": "fairy",
+      "baseHp": 55,
+      "baseAtk": 55,
+      "baseDfe": 55,
+      "baseSpd": 135,
+      "baseAts": 135,
+      "baseDfs": 135,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 1,
+      "evAts": 1,
+      "evDfs": 1,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 285,
+      "baseLoyalty": 70,
+      "catchRate": 30,
+      "femaleRate": -1,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "flottemeche",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "contest_costume",
+          "chance": 5
+        }
+      ],
+      "abilities": [
+        "paleosynthese_",
+        "paleosynthese_",
+        "paleosynthese_"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "FLUTTERMANE",
+        "iconShiny": "FLUTTERMANE",
+        "front": "flotte mèche",
+        "frontShiny": "FLUTTERMANE",
+        "back": "flotte mèche back",
+        "backShiny": "FLUTTERMANE",
+        "footprint": "FLUTTERMANE",
+        "character": "FLUTTERMANE",
+        "characterShiny": "FLUTTERMANE",
+        "cry": "824cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sunny_day",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "astonish",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "confuse_ray",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "spite",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "psybeam",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "mean_look",
+          "level": 14
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "memento",
+          "level": 21
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "wish",
+          "level": 28
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dazzling_gleam",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "shadow_ball",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "mystical_fire",
+          "level": 49
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "power_gem",
+          "level": 56
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "psyshock",
+          "level": 63
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "phantom_force",
+          "level": 70
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "pain_split",
+          "level": 77
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "moonblast",
+          "level": 84
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "perish_song",
+          "level": 91
+        }
+      ]
+    }
+  ]
+}
